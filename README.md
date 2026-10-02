@@ -14,9 +14,9 @@ npm run build      # type-check + production build into dist/
 
 ## Deploy (GitHub Pages)
 
-1. Create a repo named `grade3-english` on GitHub and push `main`.
+1. Repo: https://github.com/UAEGrade3English/Site
 2. Repo **Settings → Pages → Source: GitHub Actions**.
-3. Every push to `main` deploys to `https://USERNAME.github.io/grade3-english/`.
+3. Every push to `main` deploys to https://uaegrade3english.github.io/Site/.
 
 ## Adding a unit
 
