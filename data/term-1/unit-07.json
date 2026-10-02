@@ -1,0 +1,148 @@
+{
+  "term": 1,
+  "unit": 7,
+  "title": "Our Home",
+  "emoji": "🏠",
+  "cover": "img/u7/cover.jpg",
+  "bookPages": "Activity Book pp. 45–51",
+  "objectives": [
+    "Spell grade-level sight words from memory when I write",
+    "Spot a common spelling pattern (like ‘ight’, ‘ai’, ‘ow’) in a word",
+    "Use clues from the sentence to guess what a new word means",
+    "Use prepositions: in, on, under, between, next to",
+    "Find an example or detail in the text to back up my answer",
+    "Write a compound sentence with and, but or so"
+  ],
+  "vocabulary": [
+    { "word": "apartment", "image": "img/u7/apartment.jpg", "group": "home", "definition": "a home on one floor of a tall building", "example": "Amal lives in an apartment." },
+    { "word": "balcony", "image": "img/u7/balcony.jpg", "group": "home", "definition": "a small place outside a window, high up, where you can sit", "example": "I watch the birds from my balcony." },
+    { "word": "garden", "image": "img/u7/garden.jpg", "group": "home", "definition": "a place outside a house with grass, trees and flowers", "example": "The garden has many flowers." },
+    { "word": "bedroom", "image": "img/u7/bedroom.jpg", "group": "rooms", "definition": "the room where you sleep", "example": "I sleep in my bedroom." },
+    { "word": "bathroom", "image": "img/u7/bathroom.jpg", "group": "rooms", "definition": "the room where you wash and have a bath or shower", "example": "There is a bathtub in the bathroom." },
+    { "word": "kitchen", "image": "img/u7/kitchen.jpg", "group": "rooms", "definition": "the room where you cook food", "example": "My mum cooks in the kitchen." },
+    { "word": "living room", "image": "img/u7/living-room.jpg", "group": "rooms", "definition": "the room where the family sits, talks and watches TV", "example": "We watch television in the living room." },
+    { "word": "dining room", "image": "img/u7/dining-room.jpg", "group": "rooms", "definition": "the room where you eat meals at a big table", "example": "We eat dinner in the dining room." },
+    { "word": "home", "image": "img/u7/family.jpg", "group": "home", "definition": "the place where you live with your family", "example": "I love our home." },
+    { "word": "upstairs", "emoji": "⬆️", "group": "places", "definition": "on a higher floor of a building", "example": "We have two bedrooms upstairs." },
+    { "word": "downstairs", "emoji": "⬇️", "group": "places", "definition": "on a lower floor of a building", "example": "The kitchen is downstairs." },
+    { "word": "sofa", "image": "img/u7/room.jpg", "group": "things", "definition": "a long soft seat for two or more people", "example": "The cat is on the blue sofa." },
+    { "word": "table", "emoji": "🪑", "group": "things", "definition": "furniture with legs and a flat top", "example": "There is a pen under the table." },
+    { "word": "plant", "emoji": "🪴", "group": "things", "definition": "a green living thing that grows in soil", "example": "My favourite plant is on the fridge." },
+    { "word": "light", "emoji": "💡", "group": "spelling ight", "definition": "a lamp that helps you see in the dark", "example": "Turn on the light, please." },
+    { "word": "window", "emoji": "🪟", "group": "spelling ow", "definition": "glass in a wall that lets light in", "example": "I look out of the window." }
+  ],
+  "sentences": [
+    { "text": "I watch the birds from my balcony.", "image": "img/u7/balcony.jpg" },
+    { "text": "The garden has many flowers.", "image": "img/u7/garden.jpg" },
+    { "text": "There is a bathtub in the bathroom.", "image": "img/u7/bathroom.jpg" },
+    { "text": "I sleep in my bedroom.", "image": "img/u7/bedroom.jpg" },
+    { "text": "We watch television in the living room.", "image": "img/u7/living-room.jpg" },
+    { "text": "My mum cooks in the kitchen.", "image": "img/u7/kitchen.jpg" },
+    { "text": "The living room is next to the kitchen.", "emoji": "🏠" },
+    { "text": "The cat is on the blue sofa.", "image": "img/u7/room.jpg" }
+  ],
+  "grammar": [
+    {
+      "id": "prepositions",
+      "title": "in, on, under, between, next to",
+      "emoji": "📦",
+      "explain": [
+        "Prepositions tell us WHERE something is.",
+        "in = inside. on = on top. under = below.",
+        "between = in the middle of two things. next to = beside."
+      ],
+      "examples": ["The fridge is in the kitchen.", "The cat is on the sofa.", "The pen is under the table.", "The cup is between the sofa and the plant.", "The bag is next to the cat."],
+      "practice": [
+        { "type": "mcq", "prompt": "The cat is ___ the sofa. (on top)", "image": "img/u7/room.jpg", "choices": ["on", "under", "in"], "answer": "on" },
+        { "type": "mcq", "prompt": "The pen is ___ the table. (below)", "choices": ["under", "on", "between"], "answer": "under" },
+        { "type": "mcq", "prompt": "The cup is ___ the sofa and the plant.", "image": "img/u7/room.jpg", "choices": ["between", "under", "in"], "answer": "between" },
+        { "type": "mcq", "prompt": "The bathroom is ___ my room and my sister's room.", "choices": ["between", "on", "under"], "answer": "between" },
+        { "type": "mcq", "prompt": "The living room is ___ to the kitchen.", "choices": ["next", "between", "under"], "answer": "next" },
+        { "type": "mcq", "prompt": "The milk is ___ the fridge. (inside)", "choices": ["in", "on", "next to"], "answer": "in" },
+        { "type": "mcq", "prompt": "Which word is a preposition?", "choices": ["under", "kitchen", "cooks"], "answer": "under" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "The plant is next to the sofa." }
+      ]
+    },
+    {
+      "id": "and-but-so",
+      "title": "and, but, so",
+      "emoji": "🔗",
+      "explain": [
+        "We join two sentences to make one longer sentence.",
+        "and adds more. but shows something different. so tells what happens because of it.",
+        "Our house is big and it has a garden. / I like the kitchen but I love the garden. / It was hot so we stayed inside."
+      ],
+      "examples": ["We have a garden and we play there.", "Our home is small but it is cosy.", "Mum is in the kitchen so no one hides there."],
+      "practice": [
+        { "type": "mcq", "prompt": "We have a balcony ___ I watch the birds there.", "choices": ["and", "but", "so"], "answer": "and" },
+        { "type": "mcq", "prompt": "Our apartment is small ___ it is cosy.", "choices": ["but", "so", "and"], "answer": "but", "explain": "but shows something different: small, but cosy." },
+        { "type": "mcq", "prompt": "It was hot ___ we ate inside.", "choices": ["so", "but", "and"], "answer": "so" },
+        { "type": "mcq", "prompt": "Mum is always in the kitchen ___ no one hides there.", "choices": ["so", "but", "and"], "answer": "so" },
+        { "type": "mcq", "prompt": "I like the garden ___ I don't like the bathroom.", "choices": ["but", "so", "and"], "answer": "but" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "Our house is big and it has a garden." }
+      ]
+    },
+    {
+      "id": "spelling-patterns",
+      "title": "Spelling patterns: ight, ai, ow",
+      "emoji": "🔤",
+      "explain": [
+        "Some letters work together to make one sound.",
+        "ight says “ite”: light, night, right.",
+        "ai says “ay”: rain, paint. ow can say “oh”: window, snow."
+      ],
+      "examples": ["light, night, bright", "rain, paint, wait", "window, yellow, snow"],
+      "practice": [
+        { "type": "mcq", "prompt": "Which word has the ight pattern?", "choices": ["night", "nice", "nine"], "answer": "night" },
+        { "type": "mcq", "prompt": "Which word has the ai pattern?", "choices": ["paint", "pant", "pin"], "answer": "paint" },
+        { "type": "mcq", "prompt": "Which word has the ow pattern?", "choices": ["window", "winter", "wind"], "answer": "window" },
+        { "type": "mcq", "prompt": "Spell it: turn on the l___", "choices": ["light", "lite", "lighte"], "answer": "light" },
+        { "type": "mcq", "prompt": "Spell it: it is very br___ today", "choices": ["bright", "brite", "briht"], "answer": "bright" },
+        { "type": "mcq", "prompt": "Which word rhymes with light?", "choices": ["night", "lit", "late"], "answer": "night" }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "sara-apartment",
+      "title": "Sara's Apartment",
+      "image": "img/u7/apartment.jpg",
+      "paragraphs": [
+        "My name is Sara. My family and I live in an apartment on the tenth floor of a tall building. From our balcony, we can see the sea.",
+        "Our apartment has three bedrooms, a kitchen, a living room and two bathrooms. My bedroom is between my brother's room and the bathroom.",
+        "The living room is next to the kitchen. There is a big green sofa in the living room. My cat, Lulu, likes to sleep on the sofa. Sometimes she hides under the table.",
+        "We don't have a garden, so we grow plants on the balcony. Dad waters them every evening. Our home is small but it is cosy, and I love it!"
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "Where does Sara live?", "choices": ["in an apartment", "in a villa with a garden", "on a farm"], "answer": "in an apartment" },
+        { "type": "mcq", "prompt": "What can they see from the balcony?", "choices": ["the sea", "the desert", "the mountains"], "answer": "the sea" },
+        { "type": "mcq", "prompt": "How many bedrooms are there?", "choices": ["three", "two", "ten"], "answer": "three" },
+        { "type": "mcq", "prompt": "Where is Sara's bedroom?", "choices": ["between her brother's room and the bathroom", "next to the kitchen", "on the balcony"], "answer": "between her brother's room and the bathroom" },
+        { "type": "mcq", "prompt": "Where does Lulu like to sleep?", "choices": ["on the sofa", "in the kitchen", "under the bed"], "answer": "on the sofa" },
+        { "type": "tf", "prompt": "Sara's family has a big garden.", "answer": false, "explain": "We don't have a garden, so we grow plants on the balcony." },
+        { "type": "mcq", "prompt": "Who waters the plants?", "choices": ["Dad", "Sara", "Lulu"], "answer": "Dad" },
+        { "type": "mcq", "prompt": "In the text, “cosy” means…", "choices": ["warm and comfortable", "very big", "dirty"], "answer": "warm and comfortable" },
+        { "type": "mcq", "prompt": "Find the preposition: Sometimes she hides under the table.", "choices": ["under", "hides", "table"], "answer": "under" }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Which room?",
+    "buckets": [
+      { "id": "kitchen", "label": "Kitchen", "emoji": "🍳" },
+      { "id": "bedroom", "label": "Bedroom", "emoji": "🛏️" },
+      { "id": "bathroom", "label": "Bathroom", "emoji": "🛁" }
+    ],
+    "items": [
+      { "label": "pan", "emoji": "🍳", "bucket": "kitchen" },
+      { "label": "plates", "emoji": "🍽️", "bucket": "kitchen" },
+      { "label": "kettle", "emoji": "🫖", "bucket": "kitchen" },
+      { "label": "bed", "emoji": "🛏️", "bucket": "bedroom" },
+      { "label": "teddy bear", "emoji": "🧸", "bucket": "bedroom" },
+      { "label": "alarm clock", "emoji": "⏰", "bucket": "bedroom" },
+      { "label": "bathtub", "emoji": "🛁", "bucket": "bathroom" },
+      { "label": "toothbrush", "emoji": "🪥", "bucket": "bathroom" },
+      { "label": "soap", "emoji": "🧼", "bucket": "bathroom" }
+    ]
+  }
+}

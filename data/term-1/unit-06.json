@@ -1,0 +1,146 @@
+{
+  "term": 1,
+  "unit": 6,
+  "title": "Healthy Habits",
+  "emoji": "🥗",
+  "cover": "img/u6/cover.jpg",
+  "bookPages": "Activity Book pp. 40–44",
+  "objectives": [
+    "Spell grade-level sight words from memory when I write",
+    "Use clues from the sentence to guess what a new word means",
+    "Find an example or detail in the text to back up my answer",
+    "Spot the way a text is organised (its structure)",
+    "Write a simple sentence with a subject and a matching verb",
+    "Check my writing for sight word spelling mistakes and fix them"
+  ],
+  "vocabulary": [
+    { "word": "wash", "image": "img/u6/wash.jpg", "group": "actions", "definition": "to clean something with water and soap", "example": "We should wash our hands before we eat." },
+    { "word": "exercise", "image": "img/u6/exercise.jpg", "group": "actions", "definition": "to move your body to keep it strong", "example": "We should exercise to keep fit." },
+    { "word": "eat", "image": "img/u6/eat.jpg", "group": "actions", "definition": "to put food in your mouth and swallow it", "example": "You should eat fruit and vegetables." },
+    { "word": "drink", "image": "img/u6/drink.jpg", "group": "actions", "definition": "to take water or milk into your mouth and swallow it", "example": "We should drink eight glasses of water." },
+    { "word": "sleep", "image": "img/u6/sleep.jpg", "group": "actions", "definition": "to rest with your eyes closed at night", "example": "We should sleep for eight hours." },
+    { "word": "brush", "image": "img/u6/brush.jpg", "group": "actions", "definition": "to clean with a brush", "example": "We should brush our teeth in the morning and at night." },
+    { "word": "habit", "emoji": "🔁", "group": "health", "definition": "something you do again and again, often without thinking", "example": "Washing your hands is a good habit." },
+    { "word": "healthy", "image": "img/u6/vegetables.jpg", "group": "health", "definition": "good for your body; strong and well", "example": "Fruit and vegetables are healthy." },
+    { "word": "fit", "image": "img/u6/skipping.jpg", "group": "health", "definition": "healthy and strong because you exercise", "example": "Skipping keeps me fit." },
+    { "word": "strong", "emoji": "💪", "group": "health", "definition": "having a lot of power in your body", "example": "Water helps you stay strong." },
+    { "word": "energy", "emoji": "⚡", "group": "health", "definition": "the power you need to run, play and work", "example": "Healthy habits give you energy." },
+    { "word": "rested", "image": "img/u6/sleep-well.jpg", "group": "health", "definition": "not tired any more after sleeping", "example": "I feel rested after a good sleep." },
+    { "word": "fruit", "emoji": "🍎", "group": "food", "definition": "sweet food that grows on trees and plants, like apples", "example": "I eat fruit for a snack." },
+    { "word": "vegetables", "emoji": "🥦", "group": "food", "definition": "plants we eat, like carrots and broccoli", "example": "You should eat vegetables every day." },
+    { "word": "water", "emoji": "💧", "group": "food", "definition": "the clear drink that we need to live", "example": "Don't forget to drink water every day." }
+  ],
+  "sentences": [
+    { "text": "We should exercise to keep fit.", "image": "img/u6/exercise.jpg" },
+    { "text": "We should drink eight glasses of water.", "image": "img/u6/drink.jpg" },
+    { "text": "We should sleep for eight hours.", "image": "img/u6/sleep.jpg" },
+    { "text": "We should brush our teeth in the morning and at night.", "image": "img/u6/brush.jpg" },
+    { "text": "We should wash our hands before we eat.", "image": "img/u6/wash.jpg" },
+    { "text": "You should eat fruit and vegetables.", "image": "img/u6/vegetables.jpg" },
+    { "text": "Healthy habits help you stay happy.", "image": "img/u6/skipping.jpg" }
+  ],
+  "grammar": [
+    {
+      "id": "should",
+      "title": "should / shouldn't",
+      "emoji": "👍",
+      "explain": [
+        "Use should to give good advice.",
+        "We should drink water. (a good idea)",
+        "Use shouldn't (should not) for a bad idea: We shouldn't eat too many sweets."
+      ],
+      "examples": ["We should exercise every day.", "You should eat vegetables.", "You shouldn't go to bed late.", "We shouldn't drink fizzy drinks."],
+      "practice": [
+        { "type": "mcq", "prompt": "We ___ wash our hands before we eat.", "image": "img/u6/wash.jpg", "choices": ["should", "shouldn't"], "answer": "should" },
+        { "type": "mcq", "prompt": "You ___ eat too many sweets.", "choices": ["shouldn't", "should"], "answer": "shouldn't" },
+        { "type": "mcq", "prompt": "We should ___ eight glasses of water.", "image": "img/u6/drink.jpg", "choices": ["drink", "drinks", "drinking"], "answer": "drink", "explain": "After should, use the verb with no -s." },
+        { "type": "mcq", "prompt": "We should ___ for eight hours.", "image": "img/u6/sleep.jpg", "choices": ["sleep", "sleeps", "slept"], "answer": "sleep" },
+        { "type": "mcq", "prompt": "shouldn't means…", "choices": ["should not", "should now", "shout not"], "answer": "should not" },
+        { "type": "mcq", "prompt": "Which is good advice?", "choices": ["You should exercise every day.", "You should watch TV all day.", "You shouldn't drink water."], "answer": "You should exercise every day." },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "We should exercise to keep fit." }
+      ]
+    },
+    {
+      "id": "instructions",
+      "title": "Giving instructions",
+      "emoji": "📋",
+      "explain": [
+        "Advice texts often start with an action word: Wash your hands. Drink water.",
+        "Don't forget to … and Remember to … help people remember.",
+        "Numbered steps (1, 2, 3) show the order."
+      ],
+      "examples": ["Wash your hands before eating.", "Brush your teeth before bed.", "Don't forget to drink water.", "Remember to sleep well."],
+      "practice": [
+        { "type": "mcq", "prompt": "___ your hands before eating.", "image": "img/u6/wash-hands.jpg", "choices": ["Wash", "Washes", "Washing"], "answer": "Wash" },
+        { "type": "mcq", "prompt": "Don't ___ to drink water every day.", "image": "img/u6/drink.jpg", "choices": ["forget", "forgets", "forgot"], "answer": "forget" },
+        { "type": "mcq", "prompt": "Which sentence is an instruction?", "choices": ["Brush your teeth.", "Ali brushes his teeth.", "I like toothpaste."], "answer": "Brush your teeth." },
+        { "type": "mcq", "prompt": "Why do advice texts use numbers 1, 2, 3?", "choices": ["to show the steps in order", "to count apples", "to make it longer"], "answer": "to show the steps in order" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "Remember to wash your hands before eating." }
+      ]
+    },
+    {
+      "id": "help-helps",
+      "title": "It helps / They help",
+      "emoji": "🧩",
+      "explain": [
+        "The verb must match the subject.",
+        "One thing (it, he, she, water): add -s → Water helps you.",
+        "More than one (they, we, vegetables): no -s → Vegetables help you."
+      ],
+      "examples": ["Water helps you stay strong.", "Fruit and vegetables help you grow.", "Exercise makes your body strong.", "Healthy habits make you happy."],
+      "practice": [
+        { "type": "mcq", "prompt": "Water ___ you stay strong.", "choices": ["helps", "help"], "answer": "helps" },
+        { "type": "mcq", "prompt": "Vegetables ___ you grow.", "image": "img/u6/vegetables.jpg", "choices": ["help", "helps"], "answer": "help" },
+        { "type": "mcq", "prompt": "She ___ every morning.", "image": "img/u6/skipping.jpg", "choices": ["exercises", "exercise"], "answer": "exercises" },
+        { "type": "mcq", "prompt": "We ___ our teeth at night.", "image": "img/u6/brush.jpg", "choices": ["brush", "brushes"], "answer": "brush" },
+        { "type": "mcq", "prompt": "Sleep ___ you feel rested.", "image": "img/u6/sleep-well.jpg", "choices": ["makes", "make"], "answer": "makes" },
+        { "type": "tf", "prompt": "We say: Healthy habits makes you happy.", "answer": false, "explain": "Healthy habits make you happy (more than one habit, so no -s)." }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "coach-advice",
+      "title": "Coach Mona's Five Tips",
+      "image": "img/u6/skipping.jpg",
+      "paragraphs": [
+        "Today Coach Mona, our PE teacher, gives us five tips for a healthy body.",
+        "1. Move your body. You should exercise every day. Run, skip, swim or ride your bike for one hour.",
+        "2. Eat a rainbow. Fruit and vegetables come in many colours. Try to eat red, orange, green and purple food every day.",
+        "3. Drink water. Water helps your body work well. You shouldn't drink lots of fizzy drinks.",
+        "4. Sleep well. Children need about ten hours of sleep. Go to bed early, and you will feel rested in the morning.",
+        "5. Keep clean. Wash your hands before you eat and brush your teeth two times a day. \"Healthy habits give you energy,\" says Coach Mona."
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "Who is Coach Mona?", "choices": ["the PE teacher", "a doctor", "a chef"], "answer": "the PE teacher" },
+        { "type": "mcq", "prompt": "How many tips does she give?", "choices": ["five", "three", "ten"], "answer": "five" },
+        { "type": "mcq", "prompt": "How long should you exercise every day?", "choices": ["one hour", "ten hours", "five minutes"], "answer": "one hour" },
+        { "type": "mcq", "prompt": "What does “eat a rainbow” mean?", "choices": ["eat fruit and vegetables of many colours", "eat colourful sweets", "eat outside in the rain"], "answer": "eat fruit and vegetables of many colours" },
+        { "type": "tf", "prompt": "Coach Mona says you should drink lots of fizzy drinks.", "answer": false, "explain": "You shouldn't drink lots of fizzy drinks." },
+        { "type": "mcq", "prompt": "How many hours of sleep do children need?", "choices": ["about ten", "about two", "about twenty"], "answer": "about ten" },
+        { "type": "mcq", "prompt": "Why is this text organised with numbers?", "choices": ["Each number is one tip.", "It is a maths text.", "It tells a story."], "answer": "Each number is one tip." },
+        { "type": "mcq", "prompt": "“You will feel rested.” Rested means…", "choices": ["not tired", "very hungry", "very cold"], "answer": "not tired" },
+        { "type": "sequence", "prompt": "Put the tips in the same order as the text.", "items": ["Move your body.", "Eat a rainbow.", "Drink water.", "Sleep well.", "Keep clean."] }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Fruit or vegetable?",
+    "buckets": [
+      { "id": "fruit", "label": "Fruit", "emoji": "🍎" },
+      { "id": "veg", "label": "Vegetable", "emoji": "🥦" }
+    ],
+    "items": [
+      { "label": "banana", "emoji": "🍌", "bucket": "fruit" },
+      { "label": "grapes", "emoji": "🍇", "bucket": "fruit" },
+      { "label": "orange", "emoji": "🍊", "bucket": "fruit" },
+      { "label": "strawberry", "emoji": "🍓", "bucket": "fruit" },
+      { "label": "watermelon", "emoji": "🍉", "bucket": "fruit" },
+      { "label": "carrot", "emoji": "🥕", "bucket": "veg" },
+      { "label": "broccoli", "emoji": "🥦", "bucket": "veg" },
+      { "label": "potato", "emoji": "🥔", "bucket": "veg" },
+      { "label": "cucumber", "emoji": "🥒", "bucket": "veg" },
+      { "label": "onion", "emoji": "🧅", "bucket": "veg" }
+    ]
+  }
+}

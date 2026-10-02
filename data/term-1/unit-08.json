@@ -1,0 +1,145 @@
+{
+  "term": 1,
+  "unit": 8,
+  "title": "City Life",
+  "emoji": "🏙️",
+  "cover": "img/u8/cover.jpg",
+  "bookPages": "Activity Book pp. 52–58",
+  "objectives": [
+    "Read and spell each syllable, then put them together to read or spell the whole word",
+    "Use clues from the sentence to guess what a new word means",
+    "Write a simple sentence with a subject and a matching verb",
+    "Speed up when a text is easier or when I am reading for fun",
+    "Follow and give directions on a map",
+    "Fill in a planning tool with ideas before I start writing"
+  ],
+  "vocabulary": [
+    { "word": "supermarket", "image": "img/u8/supermarket.jpg", "group": "places", "definition": "a big shop where you buy food", "example": "We buy fruit at the supermarket." },
+    { "word": "hospital", "image": "img/u8/hospital.jpg", "group": "places", "definition": "a place where doctors and nurses help sick people", "example": "The hospital is next to the park." },
+    { "word": "library", "image": "img/u8/library.jpg", "group": "places", "definition": "a place where you can borrow and read books", "example": "I read quietly in the library." },
+    { "word": "cinema", "image": "img/u8/cinema.jpg", "group": "places", "definition": "a place where you watch films on a big screen", "example": "We watched a film at the cinema." },
+    { "word": "mosque", "image": "img/u8/mosque.jpg", "group": "places", "definition": "a building where Muslims pray", "example": "Dad prays at the mosque." },
+    { "word": "mall", "image": "img/u8/mall.jpg", "group": "places", "definition": "a very big building with lots of shops", "example": "We walk past the mall." },
+    { "word": "park", "image": "img/u8/park.jpg", "group": "places", "definition": "a green place in a city where people play and walk", "example": "Children play in the park." },
+    { "word": "desert", "image": "img/u8/desert.jpg", "group": "places", "definition": "a big, dry place with lots of sand", "example": "There are sand dunes in the desert." },
+    { "word": "city", "image": "img/u8/cover.jpg", "group": "places", "definition": "a big town with many buildings and people", "example": "Dubai is a busy city." },
+    { "word": "map", "image": "img/u8/map.jpg", "group": "directions", "definition": "a drawing that shows where places are", "example": "Look at the map to find the library." },
+    { "word": "turn left", "emoji": "⬅️", "group": "directions", "definition": "go round the corner to the left side", "example": "At the corner, turn left." },
+    { "word": "turn right", "emoji": "➡️", "group": "directions", "definition": "go round the corner to the right side", "example": "Turn right at the mall." },
+    { "word": "go straight", "emoji": "⬆️", "group": "directions", "definition": "keep going forward and do not turn", "example": "Go straight between the library and the mosque." },
+    { "word": "opposite", "emoji": "↔️", "group": "directions", "definition": "on the other side, facing something", "example": "My house is opposite the library." },
+    { "word": "corner", "emoji": "📐", "group": "directions", "definition": "the place where two roads meet", "example": "When you reach the corner, turn left." },
+    { "word": "road", "emoji": "🛣️", "group": "directions", "definition": "a long, hard path for cars", "example": "Look both ways, then cross the road." }
+  ],
+  "sentences": [
+    { "text": "Hessa, how do I get to your house?", "emoji": "🏡" },
+    { "text": "Walk straight between the library and the mosque.", "image": "img/u8/map.jpg" },
+    { "text": "When you reach the corner, turn left.", "emoji": "⬅️" },
+    { "text": "Walk past the park, then cross the road.", "image": "img/u8/park.jpg" },
+    { "text": "My house is the villa opposite the library.", "image": "img/u8/library.jpg" },
+    { "text": "Walk past the supermarket.", "image": "img/u8/supermarket.jpg" },
+    { "text": "Great! Now we can visit each other.", "emoji": "🤗" }
+  ],
+  "grammar": [
+    {
+      "id": "directions",
+      "title": "Giving directions",
+      "emoji": "🧭",
+      "explain": [
+        "Directions tell someone how to get to a place.",
+        "Go straight. Turn left. Turn right. Cross the road.",
+        "Walk past the park. It is opposite the library. It is between the mall and the mosque."
+      ],
+      "examples": ["Go straight along the road.", "Turn left at the corner.", "Walk past the mall.", "The library is opposite the park."],
+      "practice": [
+        { "type": "mcq", "prompt": "⬅️ Which direction is this?", "choices": ["turn left", "turn right", "go straight"], "answer": "turn left" },
+        { "type": "mcq", "prompt": "➡️ Which direction is this?", "choices": ["turn right", "turn left", "go straight"], "answer": "turn right" },
+        { "type": "mcq", "prompt": "Walk ___ the park. (go by it without stopping)", "image": "img/u8/park.jpg", "choices": ["past", "under", "in"], "answer": "past" },
+        { "type": "mcq", "prompt": "My house is ___ the library. (on the other side, facing it)", "image": "img/u8/library.jpg", "choices": ["opposite", "under", "inside"], "answer": "opposite" },
+        { "type": "mcq", "prompt": "Look both ways, then ___ the road.", "choices": ["cross", "turn", "past"], "answer": "cross" },
+        { "type": "mcq", "prompt": "Which one is a direction?", "choices": ["Go straight.", "I like books.", "The mall is big."], "answer": "Go straight." },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "Turn left at the corner." }
+      ]
+    },
+    {
+      "id": "syllables",
+      "title": "Syllables in long words",
+      "emoji": "👏",
+      "explain": [
+        "Long words are made of small parts called syllables.",
+        "Clap them: su-per-mar-ket (4), hos-pi-tal (3), ci-ne-ma (3).",
+        "Read or spell one syllable at a time, then put them together."
+      ],
+      "examples": ["park (1), mosque (1)", "de-sert (2)", "li-bra-ry (3)", "su-per-mar-ket (4)"],
+      "practice": [
+        { "type": "mcq", "prompt": "How many syllables? su-per-mar-ket", "choices": ["4", "3", "2"], "answer": "4" },
+        { "type": "mcq", "prompt": "How many syllables? park", "choices": ["1", "2", "3"], "answer": "1" },
+        { "type": "mcq", "prompt": "How many syllables? ci-ne-ma", "choices": ["3", "2", "4"], "answer": "3" },
+        { "type": "mcq", "prompt": "Which word has 2 syllables?", "choices": ["desert", "mall", "library"], "answer": "desert" },
+        { "type": "mcq", "prompt": "hos + pi + tal = ?", "choices": ["hospital", "hospitel", "hostipal"], "answer": "hospital" },
+        { "type": "mcq", "prompt": "li + bra + ry = ?", "choices": ["library", "libary", "liberry"], "answer": "library" }
+      ]
+    },
+    {
+      "id": "walks-walk",
+      "title": "She walks / They walk",
+      "emoji": "🚶",
+      "explain": [
+        "Match the verb to the subject.",
+        "He, she, it or one person: add -s → Hessa walks to school.",
+        "I, you, we, they: no -s → We walk to the park."
+      ],
+      "examples": ["Amal lives in an apartment.", "Hessa lives in a villa.", "They visit each other.", "The bus stops at the mall."],
+      "practice": [
+        { "type": "mcq", "prompt": "Amal ___ in an apartment.", "choices": ["lives", "live"], "answer": "lives" },
+        { "type": "mcq", "prompt": "We ___ to the park on Friday.", "image": "img/u8/park.jpg", "choices": ["go", "goes"], "answer": "go" },
+        { "type": "mcq", "prompt": "My dad ___ at the mosque.", "image": "img/u8/mosque.jpg", "choices": ["prays", "pray"], "answer": "prays" },
+        { "type": "mcq", "prompt": "They ___ books at the library.", "image": "img/u8/library.jpg", "choices": ["read", "reads"], "answer": "read" },
+        { "type": "mcq", "prompt": "The supermarket ___ fruit and bread.", "image": "img/u8/supermarket.jpg", "choices": ["sells", "sell"], "answer": "sells" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "Hessa lives opposite the library." }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "lost-book",
+      "title": "The Library Book",
+      "image": "img/u8/library.jpg",
+      "paragraphs": [
+        "Khalid has a library book. He must take it back today. But Khalid is new in the city, and he doesn't know the way.",
+        "Grandma draws a map for him. \"Go straight along our road,\" she says. \"Walk past the supermarket and the cinema. At the corner, turn right.\"",
+        "Khalid follows the map. He walks past the busy supermarket. He walks past the cinema. At the corner, he turns right. He sees a big park with a fountain.",
+        "\"The library is opposite the park,\" Grandma said. Khalid looks across the road. There it is! He crosses the road carefully and gives the book back. \"Thank you,\" says the librarian. \"Would you like another book?\""
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "Why does Khalid need help?", "choices": ["He doesn't know the way.", "He is sick.", "He lost his book."], "answer": "He doesn't know the way." },
+        { "type": "mcq", "prompt": "Who draws a map for Khalid?", "choices": ["Grandma", "the librarian", "his teacher"], "answer": "Grandma" },
+        { "type": "mcq", "prompt": "What does Khalid walk past first?", "choices": ["the supermarket", "the park", "the mosque"], "answer": "the supermarket" },
+        { "type": "mcq", "prompt": "What does Khalid do at the corner?", "choices": ["He turns right.", "He turns left.", "He stops."], "answer": "He turns right." },
+        { "type": "mcq", "prompt": "Where is the library?", "choices": ["opposite the park", "next to the cinema", "in the supermarket"], "answer": "opposite the park" },
+        { "type": "tf", "prompt": "Khalid crosses the road carefully.", "answer": true },
+        { "type": "mcq", "prompt": "A librarian is…", "choices": ["a person who works in a library", "a person who drives a bus", "a type of book"], "answer": "a person who works in a library" },
+        { "type": "sequence", "prompt": "Put Khalid's walk in order.", "items": ["Go straight along the road.", "Walk past the supermarket.", "Walk past the cinema.", "Turn right at the corner.", "Cross the road to the library."] }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Where do you go?",
+    "buckets": [
+      { "id": "library", "label": "Library", "emoji": "📚" },
+      { "id": "supermarket", "label": "Supermarket", "emoji": "🛒" },
+      { "id": "hospital", "label": "Hospital", "emoji": "🏥" }
+    ],
+    "items": [
+      { "label": "borrow a book", "emoji": "📖", "bucket": "library" },
+      { "label": "read quietly", "emoji": "🤫", "bucket": "library" },
+      { "label": "find a story", "emoji": "🧚", "bucket": "library" },
+      { "label": "buy bread", "emoji": "🍞", "bucket": "supermarket" },
+      { "label": "buy apples", "emoji": "🍏", "bucket": "supermarket" },
+      { "label": "buy milk", "emoji": "🥛", "bucket": "supermarket" },
+      { "label": "see a doctor", "emoji": "🩺", "bucket": "hospital" },
+      { "label": "fix a broken arm", "emoji": "🦴", "bucket": "hospital" },
+      { "label": "get medicine", "emoji": "💊", "bucket": "hospital" }
+    ]
+  }
+}

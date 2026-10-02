@@ -1,0 +1,145 @@
+{
+  "term": 1,
+  "unit": 9,
+  "title": "Transport Networks",
+  "emoji": "✈️",
+  "cover": "img/u9/cover.jpg",
+  "bookPages": "Activity Book pp. 59–64",
+  "objectives": [
+    "Use a glossary or dictionary to find or check what a word means",
+    "Say a sentence that uses a new vocabulary word correctly",
+    "Find an event in a story that reminds me of my own experience",
+    "Find an example or detail in the text to back up my answer",
+    "Join two ideas using and, but or so",
+    "Choose a planning tool (story map, web or list) for my writing"
+  ],
+  "vocabulary": [
+    { "word": "train", "image": "img/u9/train.jpg", "group": "transport", "definition": "a long vehicle that runs on a track", "example": "They travel by train to the mall." },
+    { "word": "plane", "image": "img/u9/plane.jpg", "group": "transport", "definition": "a vehicle with wings that flies in the sky", "example": "She travels to London by plane." },
+    { "word": "boat", "image": "img/u9/boat.jpg", "group": "transport", "definition": "a vehicle that moves on water", "example": "We travel by boat across the lake." },
+    { "word": "taxi", "image": "img/u9/taxi.jpg", "group": "transport", "definition": "a car with a driver that you pay to take you places", "example": "They go by taxi to their hotel." },
+    { "word": "motorbike", "image": "img/u9/motorbike.jpg", "group": "transport", "definition": "a bike with an engine", "example": "A delivery motorbike stops at the door." },
+    { "word": "helicopter", "image": "img/u9/helicopter.jpg", "group": "transport", "definition": "an aircraft with big blades on top that spin", "example": "A helicopter flies over the city." },
+    { "word": "bus", "image": "img/u9/bus.jpg", "group": "transport", "definition": "a big vehicle that carries lots of people", "example": "I travel to school by bus." },
+    { "word": "car", "image": "img/u9/car.jpg", "group": "transport", "definition": "a vehicle with four wheels for a family", "example": "He travels to work by car." },
+    { "word": "metro", "image": "img/u9/minji-train.jpg", "group": "transport", "definition": "a city train that goes through tunnels and over bridges", "example": "The family walks to the metro." },
+    { "word": "pilot", "image": "img/u9/minji-plane.jpg", "group": "people", "definition": "a person who flies a plane", "example": "The pilot flies the plane over the sea." },
+    { "word": "driver", "image": "img/u9/minji-taxi.jpg", "group": "people", "definition": "a person who drives a car, bus or taxi", "example": "The taxi driver is friendly." },
+    { "word": "travel", "emoji": "🧳", "group": "words", "definition": "to go from one place to another", "example": "There are many ways to travel in the UAE." },
+    { "word": "airport", "emoji": "🛫", "group": "words", "definition": "a place where planes take off and land", "example": "The plane lands at Dubai Airport." },
+    { "word": "bridge", "emoji": "🌉", "group": "words", "definition": "a road that goes over water or another road", "example": "The bus goes over a long bridge." },
+    { "word": "transport", "emoji": "🚦", "group": "words", "definition": "ways of moving people and things from place to place", "example": "What transport do you use?" },
+    { "word": "delivery", "image": "img/u9/delivery.jpg", "group": "words", "definition": "bringing something to a person's door", "example": "The delivery motorbike brings our food." }
+  ],
+  "sentences": [
+    { "text": "I travel to school by bus.", "image": "img/u9/bus.jpg" },
+    { "text": "He travels to work by car.", "image": "img/u9/car.jpg" },
+    { "text": "She travels to London by plane.", "image": "img/u9/plane.jpg" },
+    { "text": "They travel by train to the mall.", "image": "img/u9/train.jpg" },
+    { "text": "We travel by boat across the lake.", "image": "img/u9/boat.jpg" },
+    { "text": "The bus goes over a long bridge.", "image": "img/u9/minji-taxi.jpg" },
+    { "text": "There are so many ways to travel in the UAE.", "emoji": "🇦🇪" }
+  ],
+  "grammar": [
+    {
+      "id": "by-transport",
+      "title": "by bus, by plane",
+      "emoji": "🚌",
+      "explain": [
+        "Use by + transport to say HOW you travel.",
+        "I go to school by bus. She travels by plane.",
+        "But we say on foot when we walk: I go to the park on foot."
+      ],
+      "examples": ["I travel to school by bus.", "They go to Dubai by plane.", "We cross the creek by boat.", "My friend walks to school. She goes on foot."],
+      "practice": [
+        { "type": "mcq", "prompt": "I travel to school ___ bus.", "image": "img/u9/bus.jpg", "choices": ["by", "on", "in"], "answer": "by" },
+        { "type": "mcq", "prompt": "She travels to London by ___.", "image": "img/u9/plane.jpg", "choices": ["plane", "boat", "taxi"], "answer": "plane" },
+        { "type": "mcq", "prompt": "We travel by ___ across the lake.", "image": "img/u9/boat.jpg", "choices": ["boat", "car", "bus"], "answer": "boat" },
+        { "type": "mcq", "prompt": "I walk to the park. I go ___ foot.", "choices": ["on", "by", "in"], "answer": "on" },
+        { "type": "mcq", "prompt": "He travels to work by ___.", "image": "img/u9/car.jpg", "choices": ["car", "plane", "helicopter"], "answer": "car" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "They travel by train to the mall." }
+      ]
+    },
+    {
+      "id": "travel-verbs",
+      "title": "flies, drives, rides",
+      "emoji": "🛞",
+      "explain": [
+        "Different transport has different action words.",
+        "A pilot flies a plane. A driver drives a car, taxi or bus. You ride a bike or a motorbike.",
+        "With he, she or one person, add -s: he drives. fly → flies."
+      ],
+      "examples": ["The pilot flies the plane.", "The driver drives the taxi.", "My brother rides his bike.", "The boat sails across the sea."],
+      "practice": [
+        { "type": "mcq", "prompt": "The pilot ___ the plane over the sea.", "image": "img/u9/plane.jpg", "choices": ["flies", "drives", "rides"], "answer": "flies" },
+        { "type": "mcq", "prompt": "The taxi driver ___ the taxi.", "image": "img/u9/taxi.jpg", "choices": ["drives", "flies", "sails"], "answer": "drives" },
+        { "type": "mcq", "prompt": "He ___ a motorbike.", "image": "img/u9/motorbike.jpg", "choices": ["rides", "flies", "sails"], "answer": "rides" },
+        { "type": "mcq", "prompt": "fly → he ___", "choices": ["flies", "flys", "flyes"], "answer": "flies", "explain": "y after a consonant changes to ies: fly → flies." },
+        { "type": "mcq", "prompt": "The boat ___ across the sea.", "image": "img/u9/boat.jpg", "choices": ["sails", "drives", "rides"], "answer": "sails" },
+        { "type": "tf", "prompt": "We say: The pilot drives the plane.", "answer": false, "explain": "The pilot flies the plane." }
+      ]
+    },
+    {
+      "id": "and-but-so",
+      "title": "and, but, so",
+      "emoji": "🔗",
+      "explain": [
+        "Join two ideas with and, but or so.",
+        "and = more. but = different. so = because of that.",
+        "The train is fast and it is clean. / The bus is slow but it is cheap. / It was raining so we took a taxi."
+      ],
+      "examples": ["Minji likes the train and she likes the taxi.", "The plane is fast but it is expensive.", "The family was hungry so they ordered food."],
+      "practice": [
+        { "type": "mcq", "prompt": "The family was hungry ___ they ordered food.", "image": "img/u9/delivery.jpg", "choices": ["so", "but", "and"], "answer": "so" },
+        { "type": "mcq", "prompt": "The metro is fast ___ it is clean.", "image": "img/u9/train.jpg", "choices": ["and", "but", "so"], "answer": "and" },
+        { "type": "mcq", "prompt": "The bus is slow ___ it is cheap.", "image": "img/u9/bus.jpg", "choices": ["but", "so", "and"], "answer": "but" },
+        { "type": "mcq", "prompt": "Minji waves at the children ___ they wave back.", "choices": ["and", "but", "so"], "answer": "and" },
+        { "type": "mcq", "prompt": "It was very hot ___ we took a taxi.", "image": "img/u9/taxi.jpg", "choices": ["so", "but", "and"], "answer": "so" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "The plane is fast but the boat is slow." }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "hamdan-trip",
+      "title": "Hamdan Visits Grandma",
+      "image": "img/u9/minji-train.jpg",
+      "paragraphs": [
+        "On Saturday, Hamdan and his dad visit Grandma in Old Dubai. Dad doesn't take the car, so they go by metro.",
+        "The metro is fast and clean. It goes through tunnels and over bridges. Hamdan looks out of the window and sees tall buildings and busy roads.",
+        "Next, they cross the creek by abra. An abra is a small wooden boat. The wind is cool and Hamdan sees birds over the water. \"This is my favourite part!\" he says.",
+        "Grandma's house is near the creek, so they walk there on foot. Grandma is waiting at the door. \"How did you come?\" she asks. \"By train, by boat and on foot!\" Hamdan laughs."
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "Who does Hamdan visit?", "choices": ["Grandma", "his teacher", "his friend Minji"], "answer": "Grandma" },
+        { "type": "mcq", "prompt": "Why do they go by metro?", "choices": ["Dad doesn't take the car.", "The metro is free.", "Grandma lives at the airport."], "answer": "Dad doesn't take the car." },
+        { "type": "mcq", "prompt": "Where does the metro go?", "choices": ["through tunnels and over bridges", "across the sea", "up into the sky"], "answer": "through tunnels and over bridges" },
+        { "type": "mcq", "prompt": "What is an abra?", "choices": ["a small wooden boat", "a big plane", "a red bus"], "answer": "a small wooden boat" },
+        { "type": "mcq", "prompt": "What is Hamdan's favourite part?", "choices": ["the abra ride", "the metro", "walking"], "answer": "the abra ride" },
+        { "type": "tf", "prompt": "They take a taxi to Grandma's house.", "answer": false, "explain": "They walk there on foot." },
+        { "type": "mcq", "prompt": "How many kinds of transport do they use?", "choices": ["three", "one", "five"], "answer": "three" },
+        { "type": "sequence", "prompt": "Put the trip in order.", "items": ["They go by metro.", "They cross the creek by abra.", "They walk on foot.", "Grandma is waiting at the door."] }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Land, water or air?",
+    "buckets": [
+      { "id": "land", "label": "Land", "emoji": "🛣️" },
+      { "id": "water", "label": "Water", "emoji": "🌊" },
+      { "id": "air", "label": "Air", "emoji": "☁️" }
+    ],
+    "items": [
+      { "label": "car", "emoji": "🚗", "bucket": "land" },
+      { "label": "bus", "emoji": "🚌", "bucket": "land" },
+      { "label": "train", "emoji": "🚆", "bucket": "land" },
+      { "label": "motorbike", "emoji": "🏍️", "bucket": "land" },
+      { "label": "boat", "emoji": "🚤", "bucket": "water" },
+      { "label": "ship", "emoji": "🚢", "bucket": "water" },
+      { "label": "canoe", "emoji": "🛶", "bucket": "water" },
+      { "label": "plane", "emoji": "✈️", "bucket": "air" },
+      { "label": "helicopter", "emoji": "🚁", "bucket": "air" },
+      { "label": "hot-air balloon", "emoji": "🎈", "bucket": "air" }
+    ]
+  }
+}

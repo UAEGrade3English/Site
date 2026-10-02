@@ -9,10 +9,10 @@ Source: MoE *English Activity Book, Grade 3* (Term 1). Page numbers are book pag
 | 3 | Kind Hearts, Kind Words | 21–27 | **built** |
 | 4 | What We Wear | 28–32 | **built** |
 | 5 | My Body, My Health | 33–39 | **built** |
-| 6 | Healthy Habits | 40–44 | planned |
-| 7 | Our Home | 45–50 | planned |
-| 8 | City Life | 51–57 | planned |
-| 9 | Transport Networks | 58– | planned |
+| 6 | Healthy Habits | 40–44 | **built** |
+| 7 | Our Home | 45–51 | **built** |
+| 8 | City Life | 52–58 | **built** |
+| 9 | Transport Networks | 59–64 | **built** |
 
 ## Unit 1 — Back to School
 
@@ -77,3 +77,51 @@ jacket, trousers, warm, cool, light, colourful, comfortable.
 **Vocabulary:** head, shoulder, back, stomach, teeth, ears, eyes, arm, headache, toothache,
 stomachache, backache, hurt, pain, sick, better, doctor, hospital, healthy.
 **Game:** Sort It — healthy / not healthy.
+
+## Unit 6 — Healthy Habits
+
+| Book activity | Skill / "I can" | App |
+|---|---|---|
+| Act. 1a (p41) complete the word, match to picture | Spell sight words from memory; context clues | Learn the words, Spelling |
+| Act. 1b (p42) "We should ___ …" | Use clues from the sentence | Grammar: *should / shouldn't*; Sentences |
+| Act. 2 (p43) read "Staying Healthy", match pictures | Find a detail; spot how a text is organised | Reading: *Coach Mona's Five Tips* (original, numbered structure); Grammar: *Giving instructions* |
+| Act. 3 (p44) advice for a strong body (word bank) | Subject + matching verb; check sight-word spelling | Grammar: *It helps / They help* |
+
+**Vocabulary:** wash, exercise, eat, drink, sleep, brush, habit, healthy, fit, strong, energy,
+rested, fruit, vegetables, water. **Game:** Sort It — fruit or vegetable?
+
+## Unit 7 — Our Home
+
+| Book activity | Skill / "I can" | App |
+|---|---|---|
+| Act. 1 (p46) complete room words | Spot spelling patterns (ight, ai, ow) | Spelling; Grammar: *Spelling patterns* |
+| Act. 2 (p47) match sentence, word, picture | Context clues | Learn the words, Sentences |
+| Act. 3a–b (pp48–49) "Our Home": circle prepositions, answer questions | Prepositions; find a detail | Grammar: *in, on, under, between, next to*; Reading: *Sara's Apartment* (original) |
+| Act. 4 (p50) follow instructions to draw | Find an example or detail | Grammar practice with the living-room picture |
+| Act. 5 (p51) write about my home | Compound sentences with and / but / so | Grammar: *and, but, so* |
+
+**Vocabulary:** apartment, balcony, garden, bedroom, bathroom, kitchen, living room, dining room,
+home, upstairs, downstairs, sofa, table, plant, light, window. **Game:** Sort It — which room?
+
+## Unit 8 — City Life
+
+| Book activity | Skill / "I can" | App |
+|---|---|---|
+| Act. 1 (p53) complete place words | Read and spell each syllable | Spelling; Grammar: *Syllables in long words* |
+| Act. 2a–b (pp54–55) match places to pictures | Context clues; subject + matching verb | Learn the words; Grammar: *She walks / They walk* |
+| Act. 3a–b (pp56–57) directions dialogue + map | Read fluently; follow directions | Sentences; Grammar: *Giving directions*; Reading: *The Library Book* (original) |
+| Act. 4 (p58) map to my house | Plan before writing | Reading sequence question (route order) |
+
+**Vocabulary:** supermarket, hospital, library, cinema, mosque, mall, park, desert, city, map,
+turn left, turn right, go straight, opposite, corner, road. **Game:** Sort It — where do you go?
+
+## Unit 9 — Transport Networks
+
+| Book activity | Skill / "I can" | App |
+|---|---|---|
+| Act. 1a–b (pp60–61) match transport; "I travel by ___" | Glossary; say a sentence with new words | Learn the words; Grammar: *by bus, by plane*; Sentences |
+| Act. 2a–b (pp62–63) "Minji Visits Dubai" | Connect to own experience; find details | Reading: *Hamdan Visits Grandma* (original); Grammar: *flies, drives, rides* |
+| Act. 3 (p64) mind map: transport in my city | Join ideas with and / but / so; planning tools | Grammar: *and, but, so* |
+
+**Vocabulary:** train, plane, boat, taxi, motorbike, helicopter, bus, car, metro, pilot, driver,
+travel, airport, bridge, transport, delivery. **Game:** Sort It — land, water or air?
