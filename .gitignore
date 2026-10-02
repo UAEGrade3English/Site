@@ -1,0 +1,4 @@
+node_modules/
+dist/
+# Textbook PDFs are not redistributed
+*.pdf

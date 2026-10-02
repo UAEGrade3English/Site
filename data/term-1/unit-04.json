@@ -1,0 +1,150 @@
+{
+  "term": 1,
+  "unit": 4,
+  "title": "What We Wear",
+  "emoji": "👗",
+  "cover": "img/u4/cover.jpg",
+  "bookPages": "Activity Book pp. 28–32",
+  "objectives": [
+    "Say and write sentences that use new clothing words correctly",
+    "Use describing words (adjectives) to add detail: a red T-shirt, yellow socks",
+    "Use “This is” for one thing and “These are” for more than one",
+    "Read a text about clothes in the UAE and answer questions",
+    "Use quotation marks to show the exact words a person says",
+    "Write letters that are the same size and shape"
+  ],
+  "vocabulary": [
+    { "word": "shoes", "image": "img/u4/shoes.jpg", "group": "clothes", "definition": "things you wear on your feet when you go out", "example": "My new shoes are black and shiny." },
+    { "word": "shirt", "image": "img/u4/shirt.jpg", "group": "clothes", "definition": "a top with buttons and a collar", "example": "My dad wears a blue shirt to work." },
+    { "word": "T-shirt", "image": "img/u4/tshirt.jpg", "group": "clothes", "definition": "a soft top with short sleeves and no buttons", "example": "I wear a red T-shirt to play football." },
+    { "word": "dress", "image": "img/u4/dress.jpg", "group": "clothes", "definition": "one long piece of clothing that girls and women wear", "example": "She wears a yellow dress to the party." },
+    { "word": "socks", "image": "img/u4/socks.jpg", "group": "clothes", "definition": "soft clothes you wear on your feet inside your shoes", "example": "These are green socks." },
+    { "word": "hat", "image": "img/u4/hat.jpg", "group": "clothes", "definition": "something you wear on your head", "example": "This hat protects my face from the sun." },
+    { "word": "bag", "image": "img/u4/bag.jpg", "group": "clothes", "definition": "you carry your things in it", "example": "I put my books in my blue bag." },
+    { "word": "boots", "image": "img/u4/boots.jpg", "group": "clothes", "definition": "strong shoes that cover your feet and ankles", "example": "We wear boots when it is cold." },
+    { "word": "trainers", "image": "img/u4/trainers.jpg", "group": "clothes", "definition": "sports shoes for running and playing", "example": "I wear my trainers in PE." },
+    { "word": "jeans", "image": "img/u4/jeans.jpg", "group": "clothes", "definition": "trousers made of strong blue cloth", "example": "My brother likes his blue jeans." },
+    { "word": "kandura", "image": "img/u4/kandura.jpg", "group": "clothes", "definition": "a long white robe that men and boys wear in the UAE", "example": "Ahmed wears a white kandura." },
+    { "word": "jacket", "image": "img/u4/winter.jpg", "group": "clothes", "definition": "a short coat that keeps you warm", "example": "This jacket keeps me warm in winter." },
+    { "word": "trousers", "emoji": "👖", "group": "clothes", "definition": "clothes that cover each of your legs", "example": "People wear long trousers in winter." },
+    { "word": "warm", "emoji": "🧣", "group": "describing", "definition": "a little hot, not cold", "example": "Wear warm clothes when it is cold." },
+    { "word": "cool", "emoji": "🌬️", "group": "describing", "definition": "a little cold, not hot", "example": "In winter, the weather is cool in the UAE." },
+    { "word": "light", "image": "img/u4/summer.jpg", "group": "describing", "definition": "thin and not heavy", "example": "People wear light clothes in summer." },
+    { "word": "colourful", "emoji": "🌈", "group": "describing", "definition": "with lots of bright colours", "example": "Her dress is cool and colourful." },
+    { "word": "comfortable", "emoji": "😌", "group": "describing", "definition": "nice to wear; it feels good on you", "example": "My trainers are very comfortable." }
+  ],
+  "sentences": [
+    { "text": "This is a colourful T-shirt.", "image": "img/u4/tshirt.jpg" },
+    { "text": "These are yellow socks.", "emoji": "🧦" },
+    { "text": "In winter, the weather is cool in the UAE.", "image": "img/u4/winter.jpg" },
+    { "text": "People wear warm clothes like jackets and long trousers.", "emoji": "🧥" },
+    { "text": "In summer, the weather is very hot and sunny.", "image": "img/u4/beach.jpg" },
+    { "text": "People wear light clothes to stay cool.", "image": "img/u4/summer.jpg" },
+    { "text": "This hat protects my face from the sun.", "image": "img/u4/hat.jpg" },
+    { "text": "\"I like your colourful shirt,\" says Hessa.", "image": "img/u4/shirt.jpg" }
+  ],
+  "grammar": [
+    {
+      "id": "this-these",
+      "title": "This is / These are",
+      "emoji": "👉",
+      "explain": [
+        "Use This is for ONE thing.",
+        "Use These are for MORE THAN ONE thing.",
+        "Shoes, socks, boots, jeans and trousers come in pairs, so we say These are."
+      ],
+      "examples": ["This is a bag.", "This is a red T-shirt.", "These are yellow socks.", "These are black shoes."],
+      "practice": [
+        { "type": "mcq", "prompt": "___ a pink hat.", "image": "img/u4/hat.jpg", "choices": ["This is", "These are"], "answer": "This is" },
+        { "type": "mcq", "prompt": "___ green socks.", "image": "img/u4/socks.jpg", "choices": ["This is", "These are"], "answer": "These are" },
+        { "type": "mcq", "prompt": "___ a blue bag.", "image": "img/u4/bag.jpg", "choices": ["This is", "These are"], "answer": "This is" },
+        { "type": "mcq", "prompt": "___ black shoes.", "image": "img/u4/shoes.jpg", "choices": ["This is", "These are"], "answer": "These are" },
+        { "type": "mcq", "prompt": "___ blue jeans.", "image": "img/u4/jeans.jpg", "choices": ["This is", "These are"], "answer": "These are", "explain": "Jeans are like trousers: we say These are." },
+        { "type": "mcq", "prompt": "___ a white kandura.", "image": "img/u4/kandura.jpg", "choices": ["This is", "These are"], "answer": "This is" },
+        { "type": "mcq", "prompt": "These ___ yellow boots.", "image": "img/u4/boots.jpg", "choices": ["are", "is"], "answer": "are" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "These are colourful trainers." }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "title": "Describing words",
+      "emoji": "🎨",
+      "explain": [
+        "Describing words (adjectives) tell us more about a thing.",
+        "They tell us the colour, size or feel: red, big, warm, comfortable.",
+        "The describing word comes BEFORE the thing: a red T-shirt."
+      ],
+      "examples": ["a red T-shirt", "yellow socks", "a warm jacket", "These shoes are comfortable."],
+      "practice": [
+        { "type": "mcq", "prompt": "Which one is correct?", "choices": ["a red T-shirt", "a T-shirt red"], "answer": "a red T-shirt" },
+        { "type": "mcq", "prompt": "Which one is correct?", "choices": ["socks green", "green socks"], "answer": "green socks" },
+        { "type": "mcq", "prompt": "Find the describing word: This jacket is warm.", "choices": ["warm", "jacket", "This"], "answer": "warm" },
+        { "type": "mcq", "prompt": "Find the describing word: She has a colourful dress.", "choices": ["She", "colourful", "dress"], "answer": "colourful" },
+        { "type": "mcq", "prompt": "In winter, I wear a ___ jacket.", "image": "img/u4/winter.jpg", "choices": ["warm", "light", "sunny"], "answer": "warm" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "These are yellow socks." },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "This is a comfortable dress." }
+      ]
+    },
+    {
+      "id": "quotes",
+      "title": "Speech marks “ ”",
+      "emoji": "💬",
+      "explain": [
+        "Speech marks (quotation marks) show the exact words a person says.",
+        "Put “ at the start and ” at the end of the words they say.",
+        "Then write who said it: says Hessa."
+      ],
+      "examples": ["\"I like your colourful shirt,\" says Hessa.", "\"These shoes are comfortable,\" says Ali.", "\"It is cold today,\" says Mum."],
+      "practice": [
+        { "type": "mcq", "prompt": "Which sentence uses speech marks correctly?", "choices": ["\"I like your hat,\" says Sara.", "I like \"your hat, says Sara.\"", "\"I like your hat, says\" Sara."], "answer": "\"I like your hat,\" says Sara." },
+        { "type": "mcq", "prompt": "\"My boots are warm,\" says Ali. What words does Ali say?", "choices": ["My boots are warm", "says Ali", "Ali says boots"], "answer": "My boots are warm" },
+        { "type": "mcq", "prompt": "\"This dress is colourful,\" says Mariam. Who is talking?", "choices": ["Mariam", "The dress", "Hessa"], "answer": "Mariam" },
+        { "type": "tf", "prompt": "Speech marks go around the words a person says.", "answer": true },
+        { "type": "mcq", "prompt": "Where does the speech mark go? ___I love my new trainers,\" says Omar.", "choices": ["\"", "?", "."], "answer": "\"" }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "mariam-trips",
+      "title": "Mariam's Two Trips",
+      "image": "img/u4/beach.jpg",
+      "paragraphs": [
+        "In January, Mariam and her family go to Jebel Jais. It is the highest mountain in the UAE. The weather is cold there.",
+        "Mariam wears a warm jacket, long trousers and boots. Her brother Saeed wears a woolly hat. \"These boots are very comfortable,\" says Mariam.",
+        "In July, the family goes to the beach in Abu Dhabi. It is very hot and sunny. Mariam wears a light, colourful dress and a big hat. The hat protects her face from the sun.",
+        "Saeed wears a T-shirt and shorts. \"I like your colourful hat!\" says Saeed."
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "Where does Mariam go in January?", "choices": ["Jebel Jais", "the beach", "the mall"], "answer": "Jebel Jais" },
+        { "type": "mcq", "prompt": "What is the weather like on the mountain?", "choices": ["cold", "hot", "sunny"], "answer": "cold" },
+        { "type": "tf", "prompt": "Mariam wears boots on the mountain.", "answer": true },
+        { "type": "tf", "prompt": "Saeed wears a dress at the beach.", "answer": false, "explain": "Saeed wears a T-shirt and shorts." },
+        { "type": "mcq", "prompt": "Why does Mariam wear a big hat at the beach?", "choices": ["to protect her face from the sun", "to keep warm", "because it is cold"], "answer": "to protect her face from the sun" },
+        { "type": "mcq", "prompt": "Which word in the text means “nice to wear”?", "choices": ["comfortable", "colourful", "highest"], "answer": "comfortable" },
+        { "type": "mcq", "prompt": "Who says, “I like your colourful hat!”?", "choices": ["Saeed", "Mariam", "Mum"], "answer": "Saeed" },
+        { "type": "mcq", "prompt": "Which clothes are good for cold weather?", "choices": ["a warm jacket and boots", "a T-shirt and shorts", "a light dress"], "answer": "a warm jacket and boots" },
+        { "type": "sequence", "prompt": "Put the story in order.", "items": ["The family goes to Jebel Jais.", "Mariam wears a warm jacket and boots.", "The family goes to the beach.", "Saeed likes Mariam's colourful hat."] }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Hot day or cold day?",
+    "buckets": [
+      { "id": "hot", "label": "Hot summer", "emoji": "☀️" },
+      { "id": "cold", "label": "Cold winter", "emoji": "❄️" }
+    ],
+    "items": [
+      { "label": "jacket", "emoji": "🧥", "bucket": "cold" },
+      { "label": "scarf", "emoji": "🧣", "bucket": "cold" },
+      { "label": "gloves", "emoji": "🧤", "bucket": "cold" },
+      { "label": "boots", "emoji": "🥾", "bucket": "cold" },
+      { "label": "woolly hat", "emoji": "🧶", "bucket": "cold" },
+      { "label": "T-shirt", "emoji": "👕", "bucket": "hot" },
+      { "label": "shorts", "emoji": "🩳", "bucket": "hot" },
+      { "label": "sun hat", "emoji": "👒", "bucket": "hot" },
+      { "label": "flip-flops", "emoji": "🩴", "bucket": "hot" },
+      { "label": "sunglasses", "emoji": "🕶️", "bucket": "hot" }
+    ]
+  }
+}

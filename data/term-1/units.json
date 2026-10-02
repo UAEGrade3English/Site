@@ -1,0 +1,11 @@
+[
+  { "term": 1, "unit": 1, "title": "Back to School", "emoji": "🏫" },
+  { "term": 1, "unit": 2, "title": "Daily Routines", "emoji": "⏰" },
+  { "term": 1, "unit": 3, "title": "Kind Hearts, Kind Words", "emoji": "💛" },
+  { "term": 1, "unit": 4, "title": "What We Wear", "emoji": "👗" },
+  { "term": 1, "unit": 5, "title": "My Body, My Health", "emoji": "🩺" },
+  { "term": 1, "unit": 6, "title": "Healthy Habits", "emoji": "🥗" },
+  { "term": 1, "unit": 7, "title": "Our Home", "emoji": "🏠" },
+  { "term": 1, "unit": 8, "title": "City Life", "emoji": "🏙️" },
+  { "term": 1, "unit": 9, "title": "Transport Networks", "emoji": "✈️" }
+]

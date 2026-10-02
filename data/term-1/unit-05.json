@@ -1,0 +1,155 @@
+{
+  "term": 1,
+  "unit": 5,
+  "title": "My Body, My Health",
+  "emoji": "🩺",
+  "cover": "img/u5/cover.jpg",
+  "bookPages": "Activity Book pp. 33–39",
+  "objectives": [
+    "Read grade-level high-frequency words quickly",
+    "Use a glossary or dictionary to check what a word means",
+    "Break multi-syllable words into syllables (stom-ach-ache)",
+    "Spot contractions: do not → don't, what is → what's",
+    "Ask and answer: What's the matter? Does your back hurt? Do you have a headache?",
+    "Answer questions using words straight from the text"
+  ],
+  "vocabulary": [
+    { "word": "head", "emoji": "🙆‍♀️", "group": "body", "definition": "the top part of your body, above your neck", "example": "I wear a hat on my head." },
+    { "word": "shoulder", "image": "img/u5/shoulder.jpg", "group": "body", "definition": "the part of your body between your neck and your arm", "example": "He has pain in his shoulder." },
+    { "word": "back", "emoji": "🧍", "group": "body", "definition": "the long part of your body behind you", "example": "Does your back hurt?" },
+    { "word": "stomach", "image": "img/u5/stomachache.jpg", "group": "body", "definition": "the part inside your body where your food goes", "example": "Her stomach hurts." },
+    { "word": "teeth", "emoji": "🦷", "group": "body", "definition": "the hard white things in your mouth; one is a tooth", "example": "Brush your teeth two times a day." },
+    { "word": "ears", "emoji": "👂", "group": "body", "definition": "you hear with your ears", "example": "The doctor checks her ears." },
+    { "word": "eyes", "emoji": "👀", "group": "body", "definition": "you see with your eyes", "example": "The doctor checks her eyes." },
+    { "word": "arm", "image": "img/u5/arm-hurt.jpg", "group": "body", "definition": "the part of your body between your shoulder and your hand", "example": "He hurt his arm playing football." },
+    { "word": "headache", "image": "img/u5/headache.jpg", "group": "aches", "definition": "a pain in your head", "example": "She has a headache." },
+    { "word": "toothache", "image": "img/u5/toothache.jpg", "group": "aches", "definition": "a pain in your tooth", "example": "I have a toothache." },
+    { "word": "stomachache", "image": "img/u5/stomachache.jpg", "group": "aches", "definition": "a pain in your stomach", "example": "Too many sweets can give you a stomachache." },
+    { "word": "backache", "image": "img/u5/backache.jpg", "group": "aches", "definition": "a pain in your back", "example": "Grandpa has a backache." },
+    { "word": "hurt", "image": "img/u5/head-hurt.jpg", "group": "feelings", "definition": "to feel pain", "example": "My head hurts." },
+    { "word": "pain", "emoji": "😣", "group": "feelings", "definition": "the bad feeling when part of your body hurts", "example": "He has pain in his shoulder." },
+    { "word": "sick", "image": "img/u5/wrong.jpg", "group": "feelings", "definition": "not well; ill", "example": "Hessa wakes up. She feels sick." },
+    { "word": "better", "image": "img/u5/better.jpg", "group": "feelings", "definition": "well again after being sick", "example": "I feel better now." },
+    { "word": "doctor", "image": "img/u5/doctor.jpg", "group": "health", "definition": "a person who helps sick people get well", "example": "Dr. Sara checks her ears and eyes." },
+    { "word": "hospital", "emoji": "🏥", "group": "health", "definition": "a place where doctors and nurses help sick people", "example": "Mum takes Hessa to the hospital." },
+    { "word": "healthy", "emoji": "🥗", "group": "health", "definition": "strong and well, not sick", "example": "Fruit and water keep you healthy." }
+  ],
+  "sentences": [
+    { "text": "What's the matter?", "image": "img/u5/doctor.jpg" },
+    { "text": "I don't feel well.", "image": "img/u5/wrong.jpg" },
+    { "text": "My head hurts.", "image": "img/u5/headache.jpg" },
+    { "text": "I have a toothache.", "image": "img/u5/toothache.jpg" },
+    { "text": "He has pain in his shoulder.", "image": "img/u5/shoulder.jpg" },
+    { "text": "Does your back hurt?", "image": "img/u5/backache.jpg" },
+    { "text": "Do you have a stomachache?", "image": "img/u5/stomachache.jpg" },
+    { "text": "I feel better now.", "image": "img/u5/better.jpg" },
+    { "text": "Drink lots of water.", "emoji": "💧" }
+  ],
+  "grammar": [
+    {
+      "id": "contractions",
+      "title": "Short forms (contractions)",
+      "emoji": "✂️",
+      "explain": [
+        "Sometimes we join two words to make one short word.",
+        "The apostrophe ’ takes the place of the missing letter.",
+        "do not → don't (the o is gone)"
+      ],
+      "examples": ["do not → don't", "what is → what's", "I am → I'm", "does not → doesn't", "it is → it's", "can not → can't"],
+      "practice": [
+        { "type": "mcq", "prompt": "What is the short form of do not?", "choices": ["don't", "dont'", "do'nt"], "answer": "don't" },
+        { "type": "mcq", "prompt": "What is the short form of what is?", "choices": ["what's", "whats'", "wha'ts"], "answer": "what's" },
+        { "type": "mcq", "prompt": "I'm means…", "choices": ["I am", "I have", "I can"], "answer": "I am" },
+        { "type": "mcq", "prompt": "doesn't means…", "choices": ["does not", "do not", "did not"], "answer": "does not" },
+        { "type": "mcq", "prompt": "I ___ feel well.", "image": "img/u5/wrong.jpg", "choices": ["don't", "doesn't", "can't's"], "answer": "don't" },
+        { "type": "mcq", "prompt": "___ the matter?", "image": "img/u5/doctor.jpg", "choices": ["What's", "Whats", "What'is"], "answer": "What's" },
+        { "type": "mcq", "prompt": "Find the contraction: It's cold today.", "choices": ["It's", "cold", "today"], "answer": "It's" },
+        { "type": "tf", "prompt": "can't is the short form of can not.", "answer": true }
+      ]
+    },
+    {
+      "id": "health-questions",
+      "title": "Asking about health",
+      "emoji": "❓",
+      "explain": [
+        "Ask: What's the matter?",
+        "With a body part, ask: Does your ___ hurt?",
+        "With an -ache word, ask: Do you have a ___?"
+      ],
+      "examples": ["What's the matter? — I feel sick.", "Does your back hurt? — No, it doesn't.", "Do you have a stomachache? — Yes, I do.", "My head hurts. / His shoulder hurts."],
+      "practice": [
+        { "type": "mcq", "prompt": "___ your back hurt?", "image": "img/u5/backache.jpg", "choices": ["Does", "Do", "Is"], "answer": "Does" },
+        { "type": "mcq", "prompt": "___ you have a headache?", "image": "img/u5/headache.jpg", "choices": ["Do", "Does", "Are"], "answer": "Do" },
+        { "type": "mcq", "prompt": "Do you have a ___?", "image": "img/u5/toothache.jpg", "choices": ["toothache", "tooth", "teeth"], "answer": "toothache" },
+        { "type": "mcq", "prompt": "Does your ___ hurt?", "image": "img/u5/shoulder.jpg", "choices": ["shoulder", "shoulderache", "pain"], "answer": "shoulder" },
+        { "type": "mcq", "prompt": "My head ___.", "image": "img/u5/headache.jpg", "choices": ["hurts", "hurt", "hurting"], "answer": "hurts" },
+        { "type": "mcq", "prompt": "Her stomach hurts. She has a ___.", "image": "img/u5/stomachache.jpg", "choices": ["stomachache", "headache", "backache"], "answer": "stomachache" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "Does your shoulder hurt?" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "Do you have a headache?" }
+      ]
+    },
+    {
+      "id": "ache-words",
+      "title": "ache words & syllables",
+      "emoji": "🧩",
+      "explain": [
+        "head + ache = headache. Two small words make one big word!",
+        "In ache, the ch says k: ache sounds like “ake”.",
+        "Clap the syllables: head-ache (2), stom-ach-ache (3)."
+      ],
+      "examples": ["head + ache = headache", "tooth + ache = toothache", "back + ache = backache", "stomach + ache = stomachache"],
+      "practice": [
+        { "type": "mcq", "prompt": "tooth + ache = ?", "choices": ["toothache", "teethache", "toothake"], "answer": "toothache" },
+        { "type": "mcq", "prompt": "back + ache = ?", "choices": ["backache", "bakache", "backake"], "answer": "backache" },
+        { "type": "mcq", "prompt": "How many syllables? head-ache", "choices": ["2", "1", "3"], "answer": "2" },
+        { "type": "mcq", "prompt": "How many syllables? stom-ach-ache", "choices": ["3", "2", "4"], "answer": "3" },
+        { "type": "mcq", "prompt": "How many syllables? hos-pi-tal", "choices": ["3", "2", "4"], "answer": "3" },
+        { "type": "mcq", "prompt": "Which word has 2 syllables?", "choices": ["doctor", "head", "sick"], "answer": "doctor" },
+        { "type": "mcq", "prompt": "In ache, the letters ch sound like…", "choices": ["k", "ch as in chair", "sh"], "answer": "k" }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "rashid-toothache",
+      "title": "Rashid Has a Toothache",
+      "image": "img/u5/toothache.jpg",
+      "paragraphs": [
+        "On Saturday, Rashid eats lots of sweets and chocolate. He doesn't brush his teeth before bed.",
+        "On Sunday morning, Rashid wakes up. His face hurts. \"What's the matter, Rashid?\" asks Dad. \"I have a toothache,\" says Rashid. \"It really hurts!\"",
+        "Dad takes Rashid to see Dr. Mona, the dentist. First, she checks his teeth. Then she says, \"Too many sweet treats aren't good for your teeth. Brush your teeth two times a day and drink lots of water.\"",
+        "After one week, Rashid feels better. Now he eats fruit for a snack, and he brushes his teeth every morning and every night. \"I'm healthy and happy!\" says Rashid."
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "What does Rashid eat on Saturday?", "choices": ["sweets and chocolate", "fruit", "rice and fish"], "answer": "sweets and chocolate" },
+        { "type": "tf", "prompt": "Rashid brushes his teeth before bed on Saturday.", "answer": false, "explain": "He doesn't brush his teeth before bed." },
+        { "type": "mcq", "prompt": "What's the matter with Rashid?", "choices": ["He has a toothache.", "He has a headache.", "He has a backache."], "answer": "He has a toothache." },
+        { "type": "mcq", "prompt": "Who takes Rashid to the dentist?", "choices": ["Dad", "Mum", "his brother"], "answer": "Dad" },
+        { "type": "mcq", "prompt": "What does Dr. Mona check first?", "choices": ["his teeth", "his ears", "his back"], "answer": "his teeth" },
+        { "type": "mcq", "prompt": "In the story, aren't means…", "choices": ["are not", "is not", "am not"], "answer": "are not" },
+        { "type": "mcq", "prompt": "Why does Rashid get a toothache?", "choices": ["He eats too many sweets and doesn't brush his teeth.", "He drinks lots of water.", "He eats fruit."], "answer": "He eats too many sweets and doesn't brush his teeth." },
+        { "type": "tf", "prompt": "Rashid feels better after one week.", "answer": true },
+        { "type": "sequence", "prompt": "Put the story in order.", "items": ["Rashid eats lots of sweets.", "Rashid has a toothache.", "Dad takes him to the dentist.", "Rashid feels better."] }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Healthy or not healthy?",
+    "buckets": [
+      { "id": "yes", "label": "Healthy", "emoji": "💪" },
+      { "id": "no", "label": "Not healthy", "emoji": "🚫" }
+    ],
+    "items": [
+      { "label": "drink water", "emoji": "💧", "bucket": "yes" },
+      { "label": "eat fruit", "emoji": "🍎", "bucket": "yes" },
+      { "label": "brush your teeth", "emoji": "🪥", "bucket": "yes" },
+      { "label": "eat vegetables", "emoji": "🥦", "bucket": "yes" },
+      { "label": "ride a bike", "emoji": "🚲", "bucket": "yes" },
+      { "label": "sleep early", "emoji": "😴", "bucket": "yes" },
+      { "label": "too many sweets", "emoji": "🍬", "bucket": "no" },
+      { "label": "lots of donuts", "emoji": "🍩", "bucket": "no" },
+      { "label": "TV all day", "emoji": "📺", "bucket": "no" },
+      { "label": "fizzy drinks", "emoji": "🥤", "bucket": "no" }
+    ]
+  }
+}
