@@ -1,0 +1,147 @@
+{
+  "term": 1,
+  "unit": 2,
+  "title": "Daily Routines",
+  "emoji": "⏰",
+  "cover": "img/u2/cover.jpg",
+  "bookPages": "Activity Book pp. 15–20",
+  "objectives": [
+    "Use a glossary or dictionary to check what a word means",
+    "Spot topic words for daily routines",
+    "Name features of a procedural text (numbered steps, pictures)",
+    "Answer literal and inferential questions about a text",
+    "Write a simple sentence with a subject and a matching verb",
+    "Use always, sometimes and never in full sentences"
+  ],
+  "vocabulary": [
+    { "word": "wake up", "image": "img/u2/wake-up.jpg", "group": "routine", "definition": "to stop sleeping", "example": "I wake up at six o'clock." },
+    { "word": "take a shower", "image": "img/u2/shower.jpg", "group": "routine", "definition": "to wash your body under running water", "example": "Ahmed takes a shower every morning." },
+    { "word": "get dressed", "image": "img/u2/dressed.jpg", "group": "routine", "definition": "to put on your clothes", "example": "I get dressed for school." },
+    { "word": "brush teeth", "image": "img/u2/teeth.jpg", "group": "routine", "definition": "to clean your teeth with a toothbrush", "example": "I brush my teeth after breakfast." },
+    { "word": "eat breakfast", "image": "img/u2/breakfast.jpg", "group": "routine", "definition": "to have the first meal of the day", "example": "We eat breakfast together." },
+    { "word": "go to school", "image": "img/u2/school.jpg", "group": "routine", "definition": "to travel to school in the morning", "example": "I go to school by bus." },
+    { "word": "do homework", "image": "img/u2/homework.jpg", "group": "routine", "definition": "to do school work at home", "example": "She does her homework after lunch." },
+    { "word": "go to bed", "image": "img/u2/bed.jpg", "group": "routine", "definition": "to get into bed to sleep", "example": "I go to bed at eight o'clock." },
+    { "word": "play football", "image": "img/u2/football.jpg", "group": "routine", "definition": "to kick a ball in a game with friends", "example": "Sometimes he plays football with his friends." },
+    { "word": "bus", "image": "img/u2/bus.jpg", "group": "things", "definition": "a big vehicle that takes many people", "example": "Ahmed goes home by bus." },
+    { "word": "routine", "emoji": "🔁", "group": "things", "definition": "the things you do every day, in the same order", "example": "My morning routine is short." },
+    { "word": "always", "emoji": "💯", "group": "how often", "definition": "every time", "example": "Ahmed always wakes up at six." },
+    { "word": "sometimes", "emoji": "🌗", "group": "how often", "definition": "some of the time, not every time", "example": "Sometimes his dad takes him to school." },
+    { "word": "never", "emoji": "🚫", "group": "how often", "definition": "not at any time; not even once", "example": "He never goes to school without breakfast." },
+    { "word": "morning", "emoji": "🌅", "group": "time", "definition": "the early part of the day", "example": "I eat breakfast in the morning." },
+    { "word": "evening", "emoji": "🌙", "group": "time", "definition": "the end of the day, before night", "example": "In the evening, we eat dinner." }
+  ],
+  "sentences": [
+    { "text": "I wake up at six o'clock.", "image": "img/u2/wake-up.jpg" },
+    { "text": "He takes a shower and gets dressed.", "image": "img/u2/dressed.jpg" },
+    { "text": "Then he brushes his teeth and eats breakfast.", "image": "img/u2/breakfast.jpg" },
+    { "text": "He never goes to school without breakfast.", "emoji": "🚫" },
+    { "text": "Sometimes his dad takes him to school.", "image": "img/u2/school.jpg" },
+    { "text": "After school, he goes home by bus.", "image": "img/u2/bus.jpg" },
+    { "text": "She does her homework in the evening.", "image": "img/u2/homework.jpg" },
+    { "text": "I always go to bed at eight o'clock.", "image": "img/u2/bed.jpg" }
+  ],
+  "grammar": [
+    {
+      "id": "subject-verb",
+      "title": "He wakes up / I wake up",
+      "emoji": "🧩",
+      "explain": [
+        "We use the present simple for things we do every day.",
+        "I, you, we, they: wake up, eat, go.",
+        "He, she, it or a name: add -s or -es: wakes up, eats, goes, brushes."
+      ],
+      "examples": ["I wake up at six.", "Ahmed wakes up at six.", "She brushes her teeth.", "He goes to school by bus.", "They play football."],
+      "practice": [
+        { "type": "mcq", "prompt": "Ahmed ___ up at six o'clock.", "image": "img/u2/wake-up.jpg", "choices": ["wakes", "wake"], "answer": "wakes" },
+        { "type": "mcq", "prompt": "I ___ breakfast every day.", "image": "img/u2/breakfast.jpg", "choices": ["eat", "eats"], "answer": "eat" },
+        { "type": "mcq", "prompt": "She ___ her teeth.", "image": "img/u2/teeth.jpg", "choices": ["brushes", "brush", "brushs"], "answer": "brushes", "explain": "brush ends in sh, so we add -es: brushes." },
+        { "type": "mcq", "prompt": "He ___ to school by bus.", "image": "img/u2/bus.jpg", "choices": ["goes", "go", "gos"], "answer": "goes" },
+        { "type": "mcq", "prompt": "We ___ football after school.", "image": "img/u2/football.jpg", "choices": ["play", "plays"], "answer": "play" },
+        { "type": "mcq", "prompt": "My sister ___ her homework.", "image": "img/u2/homework.jpg", "choices": ["does", "do", "dos"], "answer": "does" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "He takes a shower every morning." }
+      ]
+    },
+    {
+      "id": "frequency",
+      "title": "always, sometimes, never",
+      "emoji": "📅",
+      "explain": [
+        "These words tell us HOW OFTEN.",
+        "always = every time. sometimes = some of the time. never = not at all.",
+        "They go before the action word: I always eat breakfast."
+      ],
+      "examples": ["I always eat breakfast in the morning.", "I sometimes go to school by car.", "I never go to bed late on school days.", "Ahmed always takes a shower after football."],
+      "practice": [
+        { "type": "mcq", "prompt": "Every day, I brush my teeth. I ___ brush my teeth.", "image": "img/u2/teeth.jpg", "choices": ["always", "sometimes", "never"], "answer": "always" },
+        { "type": "mcq", "prompt": "I don't drink coffee. I ___ drink coffee.", "choices": ["never", "always", "sometimes"], "answer": "never" },
+        { "type": "mcq", "prompt": "Some days Dad takes me to school. ___ Dad takes me to school.", "choices": ["Sometimes", "Never", "Always"], "answer": "Sometimes" },
+        { "type": "mcq", "prompt": "Which sentence is correct?", "choices": ["I always eat breakfast.", "I eat always breakfast.", "Always I breakfast eat."], "answer": "I always eat breakfast." },
+        { "type": "mcq", "prompt": "Which word means “not at any time”?", "choices": ["never", "always", "sometimes"], "answer": "never" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "I sometimes play football after school." },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "He never watches TV before homework." }
+      ]
+    },
+    {
+      "id": "sequence",
+      "title": "First, then, after",
+      "emoji": "🔢",
+      "explain": [
+        "Order words tell us WHEN things happen.",
+        "First … Then … After that … Finally …",
+        "Instructions often use numbered steps: 1, 2, 3."
+      ],
+      "examples": ["First, I wake up.", "Then, I take a shower.", "After that, I get dressed.", "Finally, I go to school."],
+      "practice": [
+        { "type": "mcq", "prompt": "Which word starts a list of steps?", "choices": ["First", "Finally", "After"], "answer": "First" },
+        { "type": "mcq", "prompt": "Which word tells us the LAST step?", "choices": ["Finally", "First", "Then"], "answer": "Finally" },
+        { "type": "mcq", "prompt": "What do you do first in the morning?", "choices": ["wake up", "go to bed", "do homework"], "answer": "wake up" },
+        { "type": "sequence", "prompt": "Put the morning routine in order.", "items": ["I wake up.", "I take a shower.", "I get dressed.", "I go to school."] },
+        { "type": "sequence", "prompt": "Put the evening in order.", "items": ["I eat dinner.", "I do my homework.", "I brush my teeth.", "I go to bed."] }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "saif-day",
+      "title": "Saif's Busy Day",
+      "image": "img/u2/football.jpg",
+      "paragraphs": [
+        "Saif always wakes up at half past six. First, he takes a shower. Then, he gets dressed in his school uniform and brushes his teeth.",
+        "After that, Saif eats breakfast with his sister, Latifa. He always eats eggs and bread. He never goes to school without breakfast.",
+        "Saif usually goes to school by bus. Sometimes, his mum takes him in the car. At school, he sits next to his best friend, Khalid.",
+        "After school, Saif plays football in the park. In the evening, he eats dinner with his family and does his homework. Finally, at eight o'clock, he goes to bed."
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "What time does Saif wake up?", "choices": ["half past six", "eight o'clock", "seven o'clock"], "answer": "half past six" },
+        { "type": "mcq", "prompt": "What does Saif do first in the morning?", "choices": ["He takes a shower.", "He eats breakfast.", "He plays football."], "answer": "He takes a shower." },
+        { "type": "mcq", "prompt": "Who does Saif eat breakfast with?", "choices": ["his sister, Latifa", "Khalid", "his teacher"], "answer": "his sister, Latifa" },
+        { "type": "tf", "prompt": "Saif sometimes goes to school without breakfast.", "answer": false, "explain": "He never goes to school without breakfast." },
+        { "type": "mcq", "prompt": "How does Saif usually go to school?", "choices": ["by bus", "by car", "on foot"], "answer": "by bus" },
+        { "type": "mcq", "prompt": "Who is Saif's best friend?", "choices": ["Khalid", "Latifa", "Ahmed"], "answer": "Khalid" },
+        { "type": "mcq", "prompt": "What does Saif do after school?", "choices": ["He plays football.", "He goes to bed.", "He takes a shower."], "answer": "He plays football." },
+        { "type": "mcq", "prompt": "Which sentence best describes Saif's day?", "choices": ["He has a regular routine every day.", "He does different things every day.", "He has no routine."], "answer": "He has a regular routine every day." },
+        { "type": "sequence", "prompt": "Put Saif's day in order.", "items": ["Saif wakes up.", "He eats breakfast.", "He plays football in the park.", "He goes to bed."] }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Morning or evening?",
+    "buckets": [
+      { "id": "am", "label": "Morning", "emoji": "🌅" },
+      { "id": "pm", "label": "Evening", "emoji": "🌙" }
+    ],
+    "items": [
+      { "label": "wake up", "emoji": "⏰", "bucket": "am" },
+      { "label": "eat breakfast", "emoji": "🥣", "bucket": "am" },
+      { "label": "get dressed for school", "emoji": "👔", "bucket": "am" },
+      { "label": "catch the school bus", "emoji": "🚌", "bucket": "am" },
+      { "label": "pray Fajr", "emoji": "🌄", "bucket": "am" },
+      { "label": "eat dinner", "emoji": "🍽️", "bucket": "pm" },
+      { "label": "put on pyjamas", "emoji": "🛌", "bucket": "pm" },
+      { "label": "read a bedtime story", "emoji": "📖", "bucket": "pm" },
+      { "label": "pray Maghrib", "emoji": "🌇", "bucket": "pm" },
+      { "label": "go to bed", "emoji": "😴", "bucket": "pm" }
+    ]
+  }
+}

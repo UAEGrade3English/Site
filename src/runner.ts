@@ -139,7 +139,7 @@ export function runQuestions(root: HTMLElement, questions: Question[], opts: Run
             h(
               "button",
               {
-                class: `slot${q.mask[i] ? " fixed" : ""}${slots[i] ? " filled" : ""}`,
+                class: `slot${q.mask[i] ? " fixed" : ""}${slots[i] ? " filled" : ""}${target[i] === " " ? " space" : ""}`,
                 disabled: q.mask[i] || undefined,
                 onclick: () => {
                   if (answered || q.mask[i] || used[i] === null) return;

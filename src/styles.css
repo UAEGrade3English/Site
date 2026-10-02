@@ -236,6 +236,7 @@ a.unit-card:active { transform: translateY(2px); }
   background: var(--bg); font-size: 1.8rem; font-weight: 700; padding: 0;
 }
 .slot.fixed { border-style: solid; border-color: var(--line); background: var(--card); color: var(--muted); }
+.slot.space { width: 18px; border: none; background: none; }
 .slot.filled { border-style: solid; border-color: var(--teal); background: var(--teal-soft); }
 .tile {
   width: 60px; height: 64px; border-radius: 14px; border: none;
@@ -317,7 +318,7 @@ a.unit-card:active { transform: translateY(2px); }
   font-size: 1.5rem; font-weight: 700; animation: pop-in 0.25s ease-out;
 }
 .si-emoji { font-size: 5rem; line-height: 1.1; }
-.buckets { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.buckets { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; }
 .bucket {
   min-height: 140px; border-radius: var(--radius); border: 3px solid var(--line); background: var(--card);
   display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; font-size: 1.3rem; font-weight: 700; box-shadow: var(--shadow);

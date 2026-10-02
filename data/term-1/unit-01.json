@@ -1,0 +1,146 @@
+{
+  "term": 1,
+  "unit": 1,
+  "title": "Back to School",
+  "emoji": "🏫",
+  "cover": "img/u1/cover.jpg",
+  "bookPages": "Activity Book pp. 10–14",
+  "objectives": [
+    "Use a glossary or dictionary to find or check what a word means",
+    "Ask a question about something I heard",
+    "Use topic words (school subjects) correctly when I speak",
+    "Slow down and pause at a comma when a text is harder",
+    "Use clues in the sentence to guess what a new word means",
+    "Answer questions using words straight from the text"
+  ],
+  "vocabulary": [
+    { "word": "subject", "image": "img/u1/subject.jpg", "group": "subjects", "definition": "something you learn about at school, like maths or science", "example": "My favourite subject is science." },
+    { "word": "science", "image": "img/u1/science.jpg", "group": "subjects", "definition": "the subject where we learn about the world and how it works", "example": "In science, we look at plants and animals." },
+    { "word": "social studies", "image": "img/u1/social-studies.jpg", "group": "subjects", "definition": "the subject where we learn about people, places and the UAE", "example": "We learn about maps in social studies." },
+    { "word": "Islamic studies", "image": "img/u1/islamic.jpg", "group": "subjects", "definition": "the subject where we learn about Islam and being kind and good", "example": "Ahmed likes Islamic studies." },
+    { "word": "CCDI", "image": "img/u1/ccdi.jpg", "group": "subjects", "definition": "Creative Computing, Design and Innovation: we make and design things with computers", "example": "Hessa likes CCDI because it is fun." },
+    { "word": "maths", "emoji": "➗", "group": "subjects", "definition": "the subject where we learn about numbers", "example": "We add and take away numbers in maths." },
+    { "word": "English", "emoji": "🔤", "group": "subjects", "definition": "the subject where we learn to read, write and speak English", "example": "We read a story in English today." },
+    { "word": "art", "emoji": "🎨", "group": "subjects", "definition": "the subject where we draw, paint and make things", "example": "I painted a picture of the sea in art." },
+    { "word": "favourite", "emoji": "⭐", "group": "describing", "definition": "the one you like the most", "example": "Blue is my favourite colour." },
+    { "word": "easy", "emoji": "😀", "group": "describing", "definition": "not hard; you can do it without trouble", "example": "Science is easy for me." },
+    { "word": "difficult", "emoji": "😓", "group": "describing", "definition": "hard; not easy to do or understand", "example": "Maths is difficult sometimes." },
+    { "word": "interesting", "emoji": "🤩", "group": "describing", "definition": "makes you want to know more", "example": "This book about space is interesting." },
+    { "word": "boring", "emoji": "🥱", "group": "describing", "definition": "not interesting; it makes you feel tired", "example": "Waiting in the car is boring." },
+    { "word": "classroom", "emoji": "🏫", "group": "school", "definition": "a room where students learn", "example": "Our classroom is bright and clean." },
+    { "word": "teacher", "emoji": "👩‍🏫", "group": "school", "definition": "a person who helps students learn", "example": "Our teacher reads us a story." },
+    { "word": "learn", "emoji": "🧠", "group": "school", "definition": "to find out something new", "example": "We learn new words every day." }
+  ],
+  "sentences": [
+    { "text": "My favourite subject is science.", "image": "img/u1/science.jpg" },
+    { "text": "I like science because it is interesting.", "image": "img/u1/nasser.jpg" },
+    { "text": "Science is easy for me.", "emoji": "😀" },
+    { "text": "Maths is difficult sometimes.", "emoji": "➗" },
+    { "text": "We learn about people and places in social studies.", "image": "img/u1/social-studies.jpg" },
+    { "text": "Hessa likes CCDI because it is fun.", "image": "img/u1/hessa.jpg" },
+    { "text": "What is your favourite subject?", "image": "img/u1/ahmed.jpg" },
+    { "text": "Why do you like it?", "emoji": "🤔" }
+  ],
+  "grammar": [
+    {
+      "id": "because",
+      "title": "Giving reasons: because",
+      "emoji": "💡",
+      "explain": [
+        "Use because to say WHY.",
+        "I like science because it is interesting.",
+        "Why do you like art? Because it is fun!"
+      ],
+      "examples": ["I like CCDI because it is fun.", "I like social studies because it is interesting.", "I do not like maths because it is difficult."],
+      "practice": [
+        { "type": "mcq", "prompt": "I like science ___ it is interesting.", "image": "img/u1/science.jpg", "choices": ["because", "and", "but"], "answer": "because" },
+        { "type": "mcq", "prompt": "Which word tells us WHY?", "choices": ["because", "and", "the"], "answer": "because" },
+        { "type": "mcq", "prompt": "I like art because ___", "choices": ["it is fun.", "it is a pencil.", "at school."], "answer": "it is fun." },
+        { "type": "mcq", "prompt": "Why does Hessa like CCDI?", "image": "img/u1/hessa.jpg", "choices": ["Because it is fun.", "Because it is boring.", "Because it is a book."], "answer": "Because it is fun." },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "I like maths because it is easy." },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "She likes art because it is fun." }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Asking questions",
+      "emoji": "❓",
+      "explain": [
+        "We ask questions to find out more.",
+        "What asks about a thing. Why asks for a reason. Who asks about a person.",
+        "A question ends with a question mark ?"
+      ],
+      "examples": ["What is your favourite subject?", "Why do you like science?", "Who is your teacher?", "Do you like maths?"],
+      "practice": [
+        { "type": "mcq", "prompt": "___ is your favourite subject?", "choices": ["What", "Who", "Why"], "answer": "What" },
+        { "type": "mcq", "prompt": "___ do you like science? Because it is interesting.", "choices": ["Why", "What", "Who"], "answer": "Why" },
+        { "type": "mcq", "prompt": "___ is your teacher? Miss Huda.", "choices": ["Who", "What", "Why"], "answer": "Who" },
+        { "type": "mcq", "prompt": "Which one is a question?", "choices": ["Do you like art?", "I like art.", "Art is fun."], "answer": "Do you like art?" },
+        { "type": "mcq", "prompt": "What goes at the end of a question?", "choices": ["?", ".", ","], "answer": "?" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "What is your favourite subject?" }
+      ]
+    },
+    {
+      "id": "like-likes",
+      "title": "like / likes",
+      "emoji": "👍",
+      "explain": [
+        "I like, you like, we like, they like.",
+        "With he, she or a name, add -s: he likes, Hessa likes.",
+        "Not liking: I do not like / he does not like."
+      ],
+      "examples": ["I like science.", "Nasser likes science.", "She likes CCDI.", "He does not like maths."],
+      "practice": [
+        { "type": "mcq", "prompt": "Ahmed ___ social studies.", "image": "img/u1/ahmed.jpg", "choices": ["likes", "like"], "answer": "likes" },
+        { "type": "mcq", "prompt": "I ___ art.", "choices": ["like", "likes"], "answer": "like" },
+        { "type": "mcq", "prompt": "Hessa ___ CCDI.", "image": "img/u1/hessa.jpg", "choices": ["likes", "like"], "answer": "likes" },
+        { "type": "mcq", "prompt": "We ___ our teacher.", "choices": ["like", "likes"], "answer": "like" },
+        { "type": "mcq", "prompt": "Nasser does not ___ maths.", "image": "img/u1/nasser.jpg", "choices": ["like", "likes"], "answer": "like", "explain": "After does not, we use like with no -s." },
+        { "type": "tf", "prompt": "We say: She like science.", "answer": false, "explain": "She likes science." }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "first-day",
+      "title": "The First Day Back",
+      "image": "img/u1/ahmed.jpg",
+      "paragraphs": [
+        "Today is the first day back at school. The classroom is bright and clean. Miss Huda smiles and says, \"Welcome back, Grade 3!\"",
+        "Miss Huda asks, \"What is your favourite subject?\" Salem puts up his hand. \"My favourite subject is maths,\" he says. \"I like maths because I like numbers. It is easy for me.\"",
+        "Noora likes science. \"Science is interesting,\" she says. \"We learn about plants, animals and the sky. It is difficult sometimes, but I love it.\"",
+        "Mariam likes CCDI best. She likes making things on the computer. Her friend Noora also likes CCDI. \"It is never boring!\" says Mariam."
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "Who is the teacher?", "choices": ["Miss Huda", "Noora", "Mariam"], "answer": "Miss Huda" },
+        { "type": "mcq", "prompt": "What is Salem's favourite subject?", "choices": ["maths", "science", "CCDI"], "answer": "maths" },
+        { "type": "mcq", "prompt": "Why does Salem like maths?", "choices": ["Because he likes numbers.", "Because it is boring.", "Because he likes plants."], "answer": "Because he likes numbers." },
+        { "type": "tf", "prompt": "Noora thinks science is boring.", "answer": false, "explain": "Noora says science is interesting." },
+        { "type": "mcq", "prompt": "What do they learn about in science?", "choices": ["plants, animals and the sky", "numbers", "computers"], "answer": "plants, animals and the sky" },
+        { "type": "mcq", "prompt": "Which subject is difficult sometimes for Noora?", "choices": ["science", "maths", "art"], "answer": "science" },
+        { "type": "mcq", "prompt": "What does Mariam like making?", "choices": ["things on the computer", "cakes", "maps"], "answer": "things on the computer" },
+        { "type": "mcq", "prompt": "In the text, \"interesting\" means…", "choices": ["it makes you want to know more", "it is very easy", "it makes you tired"], "answer": "it makes you want to know more" },
+        { "type": "sequence", "prompt": "Put the story in order.", "items": ["Miss Huda says, \"Welcome back!\"", "Miss Huda asks about favourite subjects.", "Salem talks about maths.", "Mariam says CCDI is never boring."] }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Which subject?",
+    "buckets": [
+      { "id": "science", "label": "Science", "emoji": "🔬" },
+      { "id": "social", "label": "Social studies", "emoji": "🌍" },
+      { "id": "ccdi", "label": "CCDI", "emoji": "💻" }
+    ],
+    "items": [
+      { "label": "microscope", "emoji": "🔬", "bucket": "science" },
+      { "label": "plants", "emoji": "🌱", "bucket": "science" },
+      { "label": "magnet", "emoji": "🧲", "bucket": "science" },
+      { "label": "map", "emoji": "🗺️", "bucket": "social" },
+      { "label": "globe", "emoji": "🌍", "bucket": "social" },
+      { "label": "UAE flag", "emoji": "🇦🇪", "bucket": "social" },
+      { "label": "computer", "emoji": "💻", "bucket": "ccdi" },
+      { "label": "robot", "emoji": "🤖", "bucket": "ccdi" },
+      { "label": "tablet", "emoji": "📱", "bucket": "ccdi" }
+    ]
+  }
+}

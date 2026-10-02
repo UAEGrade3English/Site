@@ -117,7 +117,7 @@ export function dictation(unit: Unit, v: VocabItem): Question {
     say: v.word,
     sayOnly: true,
     answer: v.word,
-    hint: `${v.word.length} letters`,
+    hint: v.word.includes(" ") ? `${v.word.split(" ").length} words` : `${v.word.length} letters`,
   };
 }
 
@@ -176,7 +176,11 @@ export function vocabPractice(unit: Unit, n = 12): Question[] {
 export function spellingPractice(unit: Unit, n = 10): Question[] {
   const words = pick(unit.vocabulary, n);
   const makers = [missingLetters, unscramble, dictation];
-  return words.map((v, i) => makers[i % makers.length](unit, v));
+  return words.map((v, i) => {
+    const make = makers[i % makers.length];
+    // Letter tiles for a space would be confusing: phrases get missing letters instead.
+    return make === unscramble && v.word.includes(" ") ? missingLetters(unit, v) : make(unit, v);
+  });
 }
 
 /** End-of-unit quiz mixing every skill. */

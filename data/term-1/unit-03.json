@@ -1,0 +1,146 @@
+{
+  "term": 1,
+  "unit": 3,
+  "title": "Kind Hearts, Kind Words",
+  "emoji": "💛",
+  "cover": "img/u3/cover.jpg",
+  "bookPages": "Activity Book pp. 21–27",
+  "objectives": [
+    "Use a glossary or dictionary to check what a word means",
+    "Say a sentence that uses a new vocabulary word correctly",
+    "Answer literal and inferential questions about a story",
+    "Find an event in a story that reminds me of my own experience",
+    "Use pronouns: he, him, she, her",
+    "Join two sentences with and; put quotation marks around what a character says"
+  ],
+  "vocabulary": [
+    { "word": "kind", "image": "img/u3/kind.jpg", "group": "describing", "definition": "nice to other people; caring", "example": "He shares his toys. He is a kind boy." },
+    { "word": "helpful", "image": "img/u3/helpful.jpg", "group": "describing", "definition": "happy to help other people", "example": "She helps her friend. She is a helpful girl." },
+    { "word": "happy", "emoji": "😊", "group": "describing", "definition": "feeling good and glad", "example": "He likes to laugh. He is a happy boy." },
+    { "word": "sad", "emoji": "😢", "group": "describing", "definition": "feeling unhappy", "example": "Ali was sad because he had no food." },
+    { "word": "friendly", "emoji": "🤗", "group": "describing", "definition": "kind and nice to talk to", "example": "Hessa was friendly to everyone at school." },
+    { "word": "smile", "image": "img/u3/smile.jpg", "group": "actions", "definition": "to make a happy face with your mouth", "example": "I smile when I see my friends." },
+    { "word": "laugh", "image": "img/u3/laugh.jpg", "group": "actions", "definition": "to make a happy sound when something is funny", "example": "We laugh at funny stories." },
+    { "word": "talk", "image": "img/u3/talk.jpg", "group": "actions", "definition": "to say words to someone", "example": "They like to talk all day long." },
+    { "word": "share", "emoji": "🧸", "group": "actions", "definition": "to let someone use or have some of your things", "example": "Hessa shares her lunch with Ali." },
+    { "word": "help", "image": "img/u3/give.jpg", "group": "actions", "definition": "to make things easier for someone", "example": "I can help you." },
+    { "word": "sorry", "image": "img/u3/sorry.jpg", "group": "words", "definition": "what you say when you make a mistake or feel bad", "example": "He made a mistake. He is sorry." },
+    { "word": "mistake", "emoji": "❌", "group": "words", "definition": "something that is wrong, done by accident", "example": "It is OK to make a mistake." },
+    { "word": "friend", "emoji": "👭", "group": "words", "definition": "a person you like and play with", "example": "My friend sits next to me." },
+    { "word": "gift", "image": "img/u3/gift.jpg", "group": "words", "definition": "a present you give to someone", "example": "The teacher gave Hessa a small gift." },
+    { "word": "playground", "image": "img/u3/fell.jpg", "group": "words", "definition": "a place outside where children play", "example": "Ali fell in the playground." },
+    { "word": "thank you", "emoji": "🙏", "group": "words", "definition": "what you say when someone is kind to you", "example": "Ali said, \"Thank you. You are kind.\"" }
+  ],
+  "sentences": [
+    { "text": "I smile when I see my friends.", "image": "img/u3/smile.jpg" },
+    { "text": "She helps her friend. She is a helpful girl.", "image": "img/u3/helpful.jpg" },
+    { "text": "He shares his toys. He is a kind boy.", "image": "img/u3/kind.jpg" },
+    { "text": "He made a mistake. He is sorry.", "image": "img/u3/sorry.jpg" },
+    { "text": "\"Are you okay?\" asked Hessa.", "image": "img/u3/fell.jpg" },
+    { "text": "\"I can help you,\" said Hessa.", "image": "img/u3/give.jpg" },
+    { "text": "\"Thank you. You are kind,\" said Ali.", "emoji": "🙏" },
+    { "text": "\"You are welcome,\" said Hessa.", "emoji": "😊" }
+  ],
+  "grammar": [
+    {
+      "id": "pronouns",
+      "title": "he, him, she, her",
+      "emoji": "👦",
+      "explain": [
+        "Pronouns are short words we use instead of a name.",
+        "he / him for a boy. she / her for a girl.",
+        "He and she DO the action. Him and her get the action: Hessa helps him."
+      ],
+      "examples": ["Ali is sad. Hessa helps him.", "Hessa is kind. She gives him food.", "The teacher sees Hessa. She gives her a gift.", "He smiles because he is happy."],
+      "practice": [
+        { "type": "mcq", "prompt": "Hessa is kind and ___ helps Ali.", "image": "img/u3/give.jpg", "choices": ["she", "he", "him"], "answer": "she" },
+        { "type": "mcq", "prompt": "Ali thanks ___. (Hessa)", "choices": ["her", "she", "he"], "answer": "her" },
+        { "type": "mcq", "prompt": "She gives ___ food. (Ali)", "image": "img/u3/give.jpg", "choices": ["him", "he", "she"], "answer": "him" },
+        { "type": "mcq", "prompt": "Ali smiles because ___ is happy.", "choices": ["he", "him", "her"], "answer": "he" },
+        { "type": "mcq", "prompt": "The teacher gives ___ a gift. (Hessa)", "image": "img/u3/gift.jpg", "choices": ["her", "she", "him"], "answer": "her" },
+        { "type": "mcq", "prompt": "Omar is my friend. I play with ___.", "choices": ["him", "he", "she"], "answer": "him" },
+        { "type": "tf", "prompt": "We say: Him is a kind boy.", "answer": false, "explain": "He is a kind boy." }
+      ]
+    },
+    {
+      "id": "and",
+      "title": "Joining with and",
+      "emoji": "🔗",
+      "explain": [
+        "We can join two short sentences with and.",
+        "Hessa is kind. She helps Ali. → Hessa is kind and she helps Ali.",
+        "Remember: only one full stop, at the end."
+      ],
+      "examples": ["Ali is sad and Hessa helps him.", "Hessa gives him food and Ali smiles.", "I smile and I wave to my friends."],
+      "practice": [
+        { "type": "mcq", "prompt": "Ali is sad. Hessa helps him. Join them:", "choices": ["Ali is sad and Hessa helps him.", "Ali is sad. and Hessa helps him.", "Ali and is sad Hessa helps him."], "answer": "Ali is sad and Hessa helps him." },
+        { "type": "mcq", "prompt": "Hessa gives him food ___ Ali smiles.", "choices": ["and", "but", "because"], "answer": "and" },
+        { "type": "mcq", "prompt": "How many full stops in a joined sentence?", "choices": ["one", "two", "none"], "answer": "one" },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "The teacher sees Hessa and she gives her a gift." },
+        { "type": "order", "prompt": "Put the words in order.", "answer": "He made a mistake and he said sorry." }
+      ]
+    },
+    {
+      "id": "kind-words",
+      "title": "Kind words & speech marks",
+      "emoji": "💬",
+      "explain": [
+        "Kind words: Are you okay? I can help you. Thank you. You are welcome. Sorry.",
+        "Put speech marks “ ” around the exact words someone says.",
+        "\"Are you okay?\" asked Hessa."
+      ],
+      "examples": ["\"Are you okay?\" asked Hessa.", "\"I can help you,\" said Hessa.", "\"Thank you,\" said Ali.", "\"You are welcome,\" said Hessa."],
+      "practice": [
+        { "type": "mcq", "prompt": "Your friend falls over. What do you say?", "image": "img/u3/fell.jpg", "choices": ["Are you okay?", "You are welcome.", "Goodbye."], "answer": "Are you okay?" },
+        { "type": "mcq", "prompt": "Someone says “Thank you.” You say…", "choices": ["You are welcome.", "Sorry.", "Are you okay?"], "answer": "You are welcome." },
+        { "type": "mcq", "prompt": "You bump into someone by mistake. You say…", "image": "img/u3/sorry.jpg", "choices": ["Sorry.", "Thank you.", "You are welcome."], "answer": "Sorry." },
+        { "type": "mcq", "prompt": "A friend gives you an apple. You say…", "choices": ["Thank you.", "Sorry.", "Are you okay?"], "answer": "Thank you." },
+        { "type": "mcq", "prompt": "Which sentence uses speech marks correctly?", "choices": ["\"I can help you,\" said Hessa.", "I can help \"you, said Hessa.\"", "\"I can help you, said\" Hessa."], "answer": "\"I can help you,\" said Hessa." },
+        { "type": "mcq", "prompt": "\"Thank you,\" said Ali. Who is talking?", "choices": ["Ali", "Hessa", "the teacher"], "answer": "Ali" }
+      ]
+    }
+  ],
+  "reading": [
+    {
+      "id": "new-girl",
+      "title": "The New Girl",
+      "image": "img/u3/smile.jpg",
+      "paragraphs": [
+        "Layla was new at school. At break time, she sat alone in the playground. She was sad because she had no friends.",
+        "Omar saw Layla. He smiled and said, \"Hello! Do you want to play with us?\" Layla smiled too. \"Yes, please!\" she said.",
+        "They played a ball game. Omar kicked the ball too hard and it hit Layla's bag. Her pencils fell on the ground. \"I'm sorry! It was a mistake,\" said Omar. He helped her pick up the pencils.",
+        "\"Thank you. You are very kind,\" said Layla. \"You are welcome,\" said Omar. Now Layla and Omar are good friends, and they laugh and talk every day."
+      ],
+      "questions": [
+        { "type": "mcq", "prompt": "Why was Layla sad?", "choices": ["She had no friends.", "She lost her bag.", "She was sick."], "answer": "She had no friends." },
+        { "type": "mcq", "prompt": "Where did Layla sit at break time?", "choices": ["in the playground", "in the classroom", "on the bus"], "answer": "in the playground" },
+        { "type": "mcq", "prompt": "What did Omar say first?", "choices": ["Hello! Do you want to play with us?", "Thank you.", "I'm sorry!"], "answer": "Hello! Do you want to play with us?" },
+        { "type": "tf", "prompt": "Omar hit Layla's bag on purpose.", "answer": false, "explain": "It was a mistake." },
+        { "type": "mcq", "prompt": "What fell on the ground?", "choices": ["Layla's pencils", "Omar's lunch", "the ball"], "answer": "Layla's pencils" },
+        { "type": "mcq", "prompt": "What did Omar do after he said sorry?", "choices": ["He helped her pick up the pencils.", "He ran away.", "He laughed at her."], "answer": "He helped her pick up the pencils." },
+        { "type": "mcq", "prompt": "In the story, I'm means…", "choices": ["I am", "I have", "I can"], "answer": "I am" },
+        { "type": "mcq", "prompt": "Was Omar kind? How do you know?", "choices": ["Yes, he asked Layla to play and helped her.", "No, he hit her bag.", "No, he did not talk to her."], "answer": "Yes, he asked Layla to play and helped her." },
+        { "type": "sequence", "prompt": "Put the story in order.", "items": ["Layla sat alone in the playground.", "Omar asked Layla to play.", "Layla's pencils fell on the ground.", "Layla and Omar became good friends."] }
+      ]
+    }
+  ],
+  "sort": {
+    "title": "Kind or unkind?",
+    "buckets": [
+      { "id": "kind", "label": "Kind", "emoji": "💛" },
+      { "id": "unkind", "label": "Unkind", "emoji": "💔" }
+    ],
+    "items": [
+      { "label": "share your toys", "emoji": "🧸", "bucket": "kind" },
+      { "label": "help a friend", "emoji": "🤝", "bucket": "kind" },
+      { "label": "say thank you", "emoji": "🙏", "bucket": "kind" },
+      { "label": "say sorry", "emoji": "😔", "bucket": "kind" },
+      { "label": "smile at a new friend", "emoji": "😊", "bucket": "kind" },
+      { "label": "listen to others", "emoji": "👂", "bucket": "kind" },
+      { "label": "push in the line", "emoji": "🫸", "bucket": "unkind" },
+      { "label": "shout at a friend", "emoji": "😠", "bucket": "unkind" },
+      { "label": "grab someone's toy", "emoji": "✋", "bucket": "unkind" },
+      { "label": "laugh at a mistake", "emoji": "🙊", "bucket": "unkind" }
+    ]
+  }
+}
